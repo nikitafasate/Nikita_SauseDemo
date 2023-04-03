@@ -1,17 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+<testng-results ignored="8" total="23" passed="15" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-04-04T00:33:25 IST" name="Default suite" finished-at="2023-04-04T00:34:26 IST" duration-ms="60912">
+  <suite started-at="2023-04-04T00:48:30 IST" name="suite" finished-at="2023-04-04T00:52:27 IST" duration-ms="236953">
     <groups>
     </groups>
-    <test started-at="2023-04-04T00:33:25 IST" name="Default test" finished-at="2023-04-04T00:34:26 IST" duration-ms="60912">
+    <test started-at="2023-04-04T00:48:30 IST" name="functional" finished-at="2023-04-04T00:52:27 IST" duration-ms="236953">
       <class name="Testcases.About">
-        <test-method is-config="true" signature="setup()[pri:0, instance:Testcases.About@3e58a80e]" started-at="2023-04-04T00:33:25 IST" name="setup" finished-at="2023-04-04T00:33:31 IST" duration-ms="5985" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method signature="verifyAbout(java.lang.String,java.lang.String)[pri:0, instance:Testcases.About@3e58a80e]" started-at="2023-04-04T00:33:31 IST" name="verifyAbout" data-provider="readData" finished-at="2023-04-04T00:33:42 IST" duration-ms="11607" status="PASS">
+        <test-method signature="verifyAbout(java.lang.String,java.lang.String)[pri:0, instance:Testcases.About@222545dc]" started-at="2023-04-04T00:50:43 IST" name="verifyAbout" data-provider="readData" finished-at="2023-04-04T00:51:20 IST" duration-ms="36527" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -27,7 +23,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyAbout -->
-        <test-method signature="verifyAbout(java.lang.String,java.lang.String)[pri:0, instance:Testcases.About@3e58a80e]" started-at="2023-04-04T00:33:43 IST" name="verifyAbout" data-provider="readData" finished-at="2023-04-04T00:33:47 IST" duration-ms="4613" status="PASS">
+        <test-method signature="verifyAbout(java.lang.String,java.lang.String)[pri:0, instance:Testcases.About@222545dc]" started-at="2023-04-04T00:51:20 IST" name="verifyAbout" data-provider="readData" finished-at="2023-04-04T00:51:49 IST" duration-ms="28963" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -43,7 +39,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyAbout -->
-        <test-method signature="verifyAbout(java.lang.String,java.lang.String)[pri:0, instance:Testcases.About@3e58a80e]" started-at="2023-04-04T00:33:47 IST" name="verifyAbout" data-provider="readData" finished-at="2023-04-04T00:34:01 IST" duration-ms="14306" status="PASS">
+        <test-method signature="verifyAbout(java.lang.String,java.lang.String)[pri:0, instance:Testcases.About@222545dc]" started-at="2023-04-04T00:51:49 IST" name="verifyAbout" data-provider="readData" finished-at="2023-04-04T00:52:08 IST" duration-ms="19138" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -59,7 +55,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyAbout -->
-        <test-method signature="verifyAbout(java.lang.String,java.lang.String)[pri:0, instance:Testcases.About@3e58a80e]" started-at="2023-04-04T00:34:01 IST" name="verifyAbout" data-provider="readData" finished-at="2023-04-04T00:34:24 IST" duration-ms="22657" status="PASS">
+        <test-method signature="verifyAbout(java.lang.String,java.lang.String)[pri:0, instance:Testcases.About@222545dc]" started-at="2023-04-04T00:52:08 IST" name="verifyAbout" data-provider="readData" finished-at="2023-04-04T00:52:24 IST" duration-ms="16438" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -75,11 +71,163 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyAbout -->
-        <test-method is-config="true" signature="tear()[pri:0, instance:Testcases.About@3e58a80e]" started-at="2023-04-04T00:34:24 IST" name="tear" finished-at="2023-04-04T00:34:26 IST" duration-ms="1624" status="PASS">
+      </class> <!-- Testcases.About -->
+      <class name="Testcases.Productcheck">
+        <test-method signature="verifycheck()[pri:0, instance:Testcases.Productcheck@6c64cb25]" started-at="2023-04-04T00:50:27 IST" name="verifycheck" finished-at="2023-04-04T00:50:29 IST" duration-ms="2230" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifycheck -->
+        <test-method signature="verifywitoutProduct()[pri:0, instance:Testcases.Productcheck@6c64cb25]" started-at="2023-04-04T00:50:29 IST" name="verifywitoutProduct" finished-at="2023-04-04T00:50:30 IST" duration-ms="1337" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifywitoutProduct -->
+      </class> <!-- Testcases.Productcheck -->
+      <class name="Testcases.LoginTestCases">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Testcases.LoginTestCases@5b239d7d]" started-at="2023-04-04T00:48:31 IST" name="setup" finished-at="2023-04-04T00:50:05 IST" duration-ms="93836" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyUser(java.lang.String,java.lang.String)[pri:0, instance:Testcases.LoginTestCases@5b239d7d]" started-at="2023-04-04T00:50:05 IST" name="verifyUser" data-provider="readData" finished-at="2023-04-04T00:50:16 IST" duration-ms="11079" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[standard_]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUser -->
+        <test-method signature="verifyUser(java.lang.String,java.lang.String)[pri:0, instance:Testcases.LoginTestCases@5b239d7d]" started-at="2023-04-04T00:50:16 IST" name="verifyUser" data-provider="readData" finished-at="2023-04-04T00:50:17 IST" duration-ms="623" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[nikita]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secret_sauce]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUser -->
+        <test-method signature="verifyUser(java.lang.String,java.lang.String)[pri:0, instance:Testcases.LoginTestCases@5b239d7d]" started-at="2023-04-04T00:50:17 IST" name="verifyUser" data-provider="readData" finished-at="2023-04-04T00:50:18 IST" duration-ms="710" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Nirvik]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secret_sauce123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUser -->
+        <test-method signature="verifyUser(java.lang.String,java.lang.String)[pri:0, instance:Testcases.LoginTestCases@5b239d7d]" started-at="2023-04-04T00:50:18 IST" name="verifyUser" data-provider="readData" finished-at="2023-04-04T00:50:19 IST" duration-ms="1123" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[standard_user]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secret_sauce]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUser -->
+        <test-method is-config="true" signature="tear()[pri:0, instance:Testcases.LoginTestCases@5b239d7d]" started-at="2023-04-04T00:52:24 IST" name="tear" finished-at="2023-04-04T00:52:27 IST" duration-ms="2480" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tear -->
-      </class> <!-- Testcases.About -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+      </class> <!-- Testcases.LoginTestCases -->
+      <class name="Testcases.BackToProduct">
+        <test-method signature="verifyBackTopage()[pri:0, instance:Testcases.BackToProduct@6ae5aa72]" started-at="2023-04-04T00:50:30 IST" name="verifyBackTopage" finished-at="2023-04-04T00:50:43 IST" duration-ms="13029" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyBackTopage -->
+      </class> <!-- Testcases.BackToProduct -->
+      <class name="Testcases.Countproduct">
+        <test-method signature="countproduct(java.lang.String,java.lang.String)[pri:0, instance:Testcases.Countproduct@245b4bdc]" started-at="2023-04-04T00:50:19 IST" name="countproduct" data-provider="readData" finished-at="2023-04-04T00:50:20 IST" duration-ms="1079" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[standard_user]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secret_sauce]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- countproduct -->
+        <test-method signature="countproduct(java.lang.String,java.lang.String)[pri:0, instance:Testcases.Countproduct@245b4bdc]" started-at="2023-04-04T00:50:20 IST" name="countproduct" data-provider="readData" finished-at="2023-04-04T00:50:20 IST" duration-ms="539" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[locked_out_user]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secret_sauce]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- countproduct -->
+        <test-method signature="countproduct(java.lang.String,java.lang.String)[pri:0, instance:Testcases.Countproduct@245b4bdc]" started-at="2023-04-04T00:50:20 IST" name="countproduct" data-provider="readData" finished-at="2023-04-04T00:50:21 IST" duration-ms="446" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[problem_user]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secret_sauce]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- countproduct -->
+        <test-method signature="countproduct(java.lang.String,java.lang.String)[pri:0, instance:Testcases.Countproduct@245b4bdc]" started-at="2023-04-04T00:50:21 IST" name="countproduct" data-provider="readData" finished-at="2023-04-04T00:50:27 IST" duration-ms="5786" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[performance_glitch_user]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secret_sauce]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- countproduct -->
+      </class> <!-- Testcases.Countproduct -->
+    </test> <!-- functional -->
+  </suite> <!-- suite -->
 </testng-results>

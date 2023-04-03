@@ -2023,3 +2023,150 @@
 2023-04-04 00:34:16,092  INFO [main] newSauce:45 - clicking button  
 2023-04-04 00:34:17,256  INFO [main] newSauce:54 - clicking button  
 2023-04-04 00:34:24,583  INFO [main] newSauce:57 - clicking button  
+2023-04-04 00:50:10,030  INFO [main] newSauce:36 - opened home page 
+2023-04-04 00:50:15,541  INFO [main] newSauce:40 - setting  username 
+2023-04-04 00:50:15,745  INFO [main] newSauce:43 - setting  password 
+2023-04-04 00:50:16,457  INFO [main] newSauce:47 - clicking button  
+2023-04-04 00:50:16,958  INFO [main] newSauce:36 - opened home page 
+2023-04-04 00:50:17,079  INFO [main] newSauce:40 - setting  username 
+2023-04-04 00:50:17,235  INFO [main] newSauce:43 - setting  password 
+2023-04-04 00:50:17,320  INFO [main] newSauce:47 - clicking button  
+2023-04-04 00:50:17,701  INFO [main] newSauce:36 - opened home page 
+2023-04-04 00:50:17,823  INFO [main] newSauce:40 - setting  username 
+2023-04-04 00:50:17,950  INFO [main] newSauce:43 - setting  password 
+2023-04-04 00:50:18,035  INFO [main] newSauce:47 - clicking button  
+2023-04-04 00:50:18,151  INFO [main] newSauce:36 - opened home page 
+2023-04-04 00:50:18,299  INFO [main] newSauce:40 - setting  username 
+2023-04-04 00:50:18,427  INFO [main] newSauce:43 - setting  password 
+2023-04-04 00:50:19,161  INFO [main] newSauce:47 - clicking button  
+2023-04-04 00:50:19,275  INFO [main] newSauce:39 - opened home page 
+2023-04-04 00:50:19,664  INFO [main] newSauce:43 - setting  username 
+2023-04-04 00:50:19,784  INFO [main] newSauce:46 - setting  password 
+2023-04-04 00:50:19,983  INFO [main] newSauce:48 - clicking button  
+2023-04-04 00:50:20,041  INFO [main] newSauce:54 - productpage  
+2023-04-04 00:50:20,459  INFO [main] newSauce:39 - opened home page 
+2023-04-04 00:50:20,602  INFO [main] newSauce:43 - setting  username 
+2023-04-04 00:50:20,737  INFO [main] newSauce:46 - setting  password 
+2023-04-04 00:50:20,811  INFO [main] newSauce:48 - clicking button  
+2023-04-04 00:50:20,812  INFO [main] newSauce:54 - productpage  
+2023-04-04 00:50:20,812  INFO [main] newSauce:57 - this is 	locked_out_user which is  not able to login 
+2023-04-04 00:50:20,905  INFO [main] newSauce:39 - opened home page 
+2023-04-04 00:50:21,026  INFO [main] newSauce:43 - setting  username 
+2023-04-04 00:50:21,143  INFO [main] newSauce:46 - setting  password 
+2023-04-04 00:50:21,242  INFO [main] newSauce:48 - clicking button  
+2023-04-04 00:50:21,244  INFO [main] newSauce:54 - productpage  
+2023-04-04 00:50:21,379  INFO [main] newSauce:39 - opened home page 
+2023-04-04 00:50:21,553  INFO [main] newSauce:43 - setting  username 
+2023-04-04 00:50:21,866  INFO [main] newSauce:46 - setting  password 
+2023-04-04 00:50:27,004  INFO [main] newSauce:48 - clicking button  
+2023-04-04 00:50:27,005  INFO [main] newSauce:54 - productpage  
+2023-04-04 00:50:27,235  INFO [main] newSauce:22 - opened home page 
+2023-04-04 00:50:27,363  INFO [main] newSauce:26 - setting  username 
+2023-04-04 00:50:27,475  INFO [main] newSauce:29 - setting  password 
+2023-04-04 00:50:27,569  INFO [main] newSauce:31 - clicking button  
+2023-04-04 00:50:28,577  INFO [main] newSauce:39 - select  
+2023-04-04 00:50:28,688  INFO [main] newSauce:45 - product added to clickadd  
+2023-04-04 00:50:29,044  INFO [main] newSauce:48 - Findproduct1  
+2023-04-04 00:50:29,141  INFO [main] newSauce:51 - cartlist  
+2023-04-04 00:50:29,214  INFO [main] newSauce:54 - checkout1  
+2023-04-04 00:50:29,397  INFO [main] newSauce:78 - opened home page 
+2023-04-04 00:50:29,507  INFO [main] newSauce:82 - setting  username 
+2023-04-04 00:50:29,631  INFO [main] newSauce:85 - setting  password 
+2023-04-04 00:50:29,725  INFO [main] newSauce:87 - clicking button  
+2023-04-04 00:50:29,843  INFO [main] newSauce:95 - remove product  
+2023-04-04 00:50:30,167  INFO [main] newSauce:97 - Findproduct1  
+2023-04-04 00:50:30,405  INFO [main] newSauce:100 - cartlist  
+2023-04-04 00:50:30,572  INFO [main] newSauce:102 - checkout1  
+2023-04-04 00:50:30,759  INFO [main] newSauce:18 - opened home page 
+2023-04-04 00:50:34,049  INFO [main] newSauce:22 - setting  username 
+2023-04-04 00:50:34,174  INFO [main] newSauce:25 - setting  password 
+2023-04-04 00:50:34,275  INFO [main] newSauce:27 - clicking button  
+2023-04-04 00:50:36,371  INFO [main] newSauce:36 - Addtocartclick  
+2023-04-04 00:50:37,172  INFO [main] newSauce:42 - checkout  
+2023-04-04 00:50:39,200  INFO [main] newSauce:45 - setting  username 
+2023-04-04 00:50:39,447  INFO [main] newSauce:48 - setting  lastname 
+2023-04-04 00:50:39,587  INFO [main] newSauce:51 - setting  pincode 
+2023-04-04 00:50:43,047  INFO [main] newSauce:54 - continies  
+2023-04-04 00:50:43,202  INFO [main] newSauce:58 - finish  
+2023-04-04 00:50:43,337  INFO [main] newSauce:61 - Backtohome  
+2023-04-04 00:50:44,070  INFO [main] newSauce:34 - opened home page 
+2023-04-04 00:50:44,262  INFO [main] newSauce:38 - setting  username 
+2023-04-04 00:50:44,430  INFO [main] newSauce:41 - setting  password 
+2023-04-04 00:50:44,564  INFO [main] newSauce:45 - clicking button  
+2023-04-04 00:50:45,724  INFO [main] newSauce:54 - clicking button  
+2023-04-04 00:51:04,652  INFO [main] newSauce:57 - clicking button  
+2023-04-04 00:51:47,811  INFO [main] newSauce:34 - opened home page 
+2023-04-04 00:51:47,957  INFO [main] newSauce:38 - setting  username 
+2023-04-04 00:51:48,062  INFO [main] newSauce:41 - setting  password 
+2023-04-04 00:51:48,147  INFO [main] newSauce:45 - clicking button  
+2023-04-04 00:51:49,158  INFO [main] newSauce:66 - this is 	locked_out_user which is  not able to login 
+2023-04-04 00:51:49,322  INFO [main] newSauce:34 - opened home page 
+2023-04-04 00:51:49,445  INFO [main] newSauce:38 - setting  username 
+2023-04-04 00:51:49,557  INFO [main] newSauce:41 - setting  password 
+2023-04-04 00:51:49,681  INFO [main] newSauce:45 - clicking button  
+2023-04-04 00:51:50,815  INFO [main] newSauce:54 - clicking button  
+2023-04-04 00:52:08,270  INFO [main] newSauce:57 - clicking button  
+2023-04-04 00:52:11,875  INFO [main] newSauce:34 - opened home page 
+2023-04-04 00:52:12,087  INFO [main] newSauce:38 - setting  username 
+2023-04-04 00:52:12,237  INFO [main] newSauce:41 - setting  password 
+2023-04-04 00:52:17,392  INFO [main] newSauce:45 - clicking button  
+2023-04-04 00:52:18,546  INFO [main] newSauce:54 - clicking button  
+2023-04-04 00:52:24,728  INFO [main] newSauce:57 - clicking button  
+2023-04-04 00:52:28,110 DEBUG [main] cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-04 00:52:28,119 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2023-04-04 00:52:28,134 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2023-04-04 00:52:28,136 DEBUG [main] cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/MICRON/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2023-04-04 00:52:29,092 DEBUG [main] cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-04 00:52:29,093 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2023-04-04 00:52:29,094 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2023-04-04 00:52:29,094 DEBUG [main] cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/MICRON/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2023-04-04 00:52:29,100 DEBUG [main] cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-04 00:52:29,117 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2023-04-04 00:52:29,120 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2023-04-04 00:52:29,120 DEBUG [main] cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/MICRON/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2023-04-04 00:52:29,132 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-04 00:52:29,134 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2023-04-04 00:52:29,137 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2023-04-04 00:52:29,137 DEBUG [main] cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/MICRON/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2023-04-04 00:52:29,151 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-04 00:52:29,154 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2023-04-04 00:52:29,156 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2023-04-04 00:52:29,157 DEBUG [main] cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/MICRON/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2023-04-04 00:52:29,190 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-04 00:52:29,192 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2023-04-04 00:52:29,208 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2023-04-04 00:52:29,208 DEBUG [main] cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/MICRON/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2023-04-04 00:52:29,230 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-04 00:52:29,231 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-04 00:52:29,234 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-04 00:52:29,239 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-04 00:52:29,240 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-04 00:52:29,241 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-04 00:52:29,243 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-04 00:52:29,244 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-04 00:52:29,245 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-04 00:52:29,246 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-04 00:52:29,248 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-04 00:52:29,261 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-04 00:52:29,263 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-04 00:52:29,270 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-04 00:52:29,271 DEBUG [main] cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-04 00:52:29,275 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2023-04-04 00:52:29,276 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2023-04-04 00:52:29,277 DEBUG [main] cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/MICRON/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2023-04-04 00:52:29,289 DEBUG [main] cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-04 00:52:29,290 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2023-04-04 00:52:29,292 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2023-04-04 00:52:29,293 DEBUG [main] cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/MICRON/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2023-04-04 00:52:29,304 DEBUG [main] cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-04 00:52:29,308 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2023-04-04 00:52:29,310 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2023-04-04 00:52:29,311 DEBUG [main] cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/MICRON/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2023-04-04 00:52:29,323 DEBUG [main] cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-04 00:52:29,325 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2023-04-04 00:52:29,327 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2023-04-04 00:52:29,328 DEBUG [main] cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/MICRON/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2023-04-04 00:52:29,390 DEBUG [main] cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-04 00:52:29,392 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2023-04-04 00:52:29,394 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2023-04-04 00:52:29,395 DEBUG [main] cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/MICRON/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
