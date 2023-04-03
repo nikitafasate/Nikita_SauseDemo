@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name = "suite" >
+
+<listeners>
+    <listener class-name="Utility.Listener" />
+</listeners>
+
+  <test name="functional" >
+    <classes>
+      <class name="Testcases.LoginTestCases"/> 
+      <class name="Testcases.Countproduct"/> 
+      <class name="Testcases.Productcheck"/> 
+      <class name="Testcases.BackToProduct"/>
+      <class name="Testcases.About"/>
+      
+      
+    </classes>
+   </test> <!-- Test -->
+</suite> <!-- Suite -->

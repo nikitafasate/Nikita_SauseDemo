@@ -1,0 +1,2025 @@
+2023-03-24 22:58:28,875  INFO [main] newSauce:32 - opened home page 
+2023-03-24 22:58:29,102  INFO [main] newSauce:36 - setting  username 
+2023-03-24 22:58:29,163  INFO [main] newSauce:39 - setting  password 
+2023-03-24 22:58:30,651  INFO [main] newSauce:43 - clicking button  
+2023-03-24 22:58:30,990  INFO [main] newSauce:32 - opened home page 
+2023-03-24 22:58:31,088  INFO [main] newSauce:36 - setting  username 
+2023-03-24 22:58:31,156  INFO [main] newSauce:39 - setting  password 
+2023-03-24 22:58:31,471  INFO [main] newSauce:43 - clicking button  
+2023-03-24 22:58:31,673  INFO [main] newSauce:32 - opened home page 
+2023-03-24 22:58:31,767  INFO [main] newSauce:36 - setting  username 
+2023-03-24 22:58:31,832  INFO [main] newSauce:39 - setting  password 
+2023-03-24 22:58:32,342  INFO [main] newSauce:43 - clicking button  
+2023-03-24 22:58:32,613  INFO [main] newSauce:32 - opened home page 
+2023-03-24 22:58:32,723  INFO [main] newSauce:36 - setting  username 
+2023-03-24 22:58:32,800  INFO [main] newSauce:39 - setting  password 
+2023-03-24 22:58:33,109  INFO [main] newSauce:43 - clicking button  
+2023-03-27 18:56:01,908  INFO [main] newSauce:32 - opened home page 
+2023-03-27 18:56:04,377  INFO [main] newSauce:36 - setting  username 
+2023-03-27 18:56:05,066  INFO [main] newSauce:39 - setting  password 
+2023-03-27 18:56:07,441  INFO [main] newSauce:43 - clicking button  
+2023-03-27 18:56:07,808  INFO [main] newSauce:32 - opened home page 
+2023-03-27 18:56:07,883  INFO [main] newSauce:36 - setting  username 
+2023-03-27 18:56:07,962  INFO [main] newSauce:39 - setting  password 
+2023-03-27 18:56:08,241  INFO [main] newSauce:43 - clicking button  
+2023-03-27 18:56:08,457  INFO [main] newSauce:32 - opened home page 
+2023-03-27 18:56:08,563  INFO [main] newSauce:36 - setting  username 
+2023-03-27 18:56:08,667  INFO [main] newSauce:39 - setting  password 
+2023-03-27 18:56:09,026  INFO [main] newSauce:43 - clicking button  
+2023-03-27 18:56:09,172  INFO [main] newSauce:32 - opened home page 
+2023-03-27 18:56:09,245  INFO [main] newSauce:36 - setting  username 
+2023-03-27 18:56:09,302  INFO [main] newSauce:39 - setting  password 
+2023-03-27 18:56:09,617  INFO [main] newSauce:43 - clicking button  
+2023-03-28 00:15:23,063 DEBUG [main] cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2023-03-28 00:15:23,100 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2023-03-28 00:15:23,104 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2023-03-28 00:15:23,105 DEBUG [main] cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/MICRON/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2023-03-28 00:15:23,656 DEBUG [main] cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2023-03-28 00:15:23,658 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2023-03-28 00:15:23,662 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2023-03-28 00:15:23,664 DEBUG [main] cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/MICRON/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2023-03-28 00:15:23,672 DEBUG [main] cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2023-03-28 00:15:23,676 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2023-03-28 00:15:23,680 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2023-03-28 00:15:23,682 DEBUG [main] cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/MICRON/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2023-03-28 00:15:23,713 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-03-28 00:15:23,717 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2023-03-28 00:15:23,719 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2023-03-28 00:15:23,720 DEBUG [main] cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/MICRON/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2023-03-28 00:15:23,740 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2023-03-28 00:15:23,743 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2023-03-28 00:15:23,749 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2023-03-28 00:15:23,753 DEBUG [main] cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/MICRON/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2023-03-28 00:15:23,781 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2023-03-28 00:15:23,783 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2023-03-28 00:15:23,798 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2023-03-28 00:15:23,799 DEBUG [main] cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/MICRON/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2023-03-28 00:15:23,832 DEBUG [main] cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-03-28 00:15:23,839 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2023-03-28 00:15:23,840 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2023-03-28 00:15:23,841 DEBUG [main] cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/MICRON/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2023-03-28 00:15:23,855 DEBUG [main] cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-03-28 00:15:23,858 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2023-03-28 00:15:23,861 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2023-03-28 00:15:23,862 DEBUG [main] cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/MICRON/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2023-03-28 00:15:23,872 DEBUG [main] cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-03-28 00:15:23,873 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2023-03-28 00:15:23,875 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2023-03-28 00:15:23,877 DEBUG [main] cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/MICRON/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2023-03-28 00:15:23,883 DEBUG [main] cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-03-28 00:15:23,888 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2023-03-28 00:15:23,894 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2023-03-28 00:15:23,896 DEBUG [main] cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/MICRON/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2023-03-28 00:15:23,928 DEBUG [main] cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-03-28 00:15:23,930 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2023-03-28 00:15:23,933 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2023-03-28 00:15:23,935 DEBUG [main] cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/MICRON/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2023-03-28 00:17:38,727  INFO [main] newSauce:36 - opened home page 
+2023-03-28 00:17:40,606  INFO [main] newSauce:40 - setting  username 
+2023-03-28 00:17:40,681  INFO [main] newSauce:43 - setting  password 
+2023-03-28 00:17:44,468  INFO [main] newSauce:47 - clicking button  
+2023-03-28 00:17:45,205  INFO [main] newSauce:36 - opened home page 
+2023-03-28 00:17:45,263  INFO [main] newSauce:40 - setting  username 
+2023-03-28 00:17:45,317  INFO [main] newSauce:43 - setting  password 
+2023-03-28 00:17:46,104  INFO [main] newSauce:47 - clicking button  
+2023-03-28 00:17:46,577  INFO [main] newSauce:36 - opened home page 
+2023-03-28 00:17:46,664  INFO [main] newSauce:40 - setting  username 
+2023-03-28 00:17:46,727  INFO [main] newSauce:43 - setting  password 
+2023-03-28 00:17:47,041  INFO [main] newSauce:47 - clicking button  
+2023-03-28 00:17:47,464  INFO [main] newSauce:36 - opened home page 
+2023-03-28 00:17:47,553  INFO [main] newSauce:40 - setting  username 
+2023-03-28 00:17:47,604  INFO [main] newSauce:43 - setting  password 
+2023-03-28 00:17:47,895  INFO [main] newSauce:47 - clicking button  
+2023-03-28 00:18:18,855  INFO [main] newSauce:36 - opened home page 
+2023-03-28 00:18:19,038  INFO [main] newSauce:40 - setting  username 
+2023-03-28 00:18:19,105  INFO [main] newSauce:43 - setting  password 
+2023-03-28 00:18:22,033  INFO [main] newSauce:47 - clicking button  
+2023-03-28 00:18:22,880  INFO [main] newSauce:36 - opened home page 
+2023-03-28 00:18:23,025  INFO [main] newSauce:40 - setting  username 
+2023-03-28 00:18:23,149  INFO [main] newSauce:43 - setting  password 
+2023-03-28 00:18:23,516  INFO [main] newSauce:47 - clicking button  
+2023-03-28 00:18:23,753  INFO [main] newSauce:36 - opened home page 
+2023-03-28 00:18:23,848  INFO [main] newSauce:40 - setting  username 
+2023-03-28 00:18:23,902  INFO [main] newSauce:43 - setting  password 
+2023-03-28 00:18:24,477  INFO [main] newSauce:47 - clicking button  
+2023-03-28 00:18:24,676  INFO [main] newSauce:36 - opened home page 
+2023-03-28 00:18:24,758  INFO [main] newSauce:40 - setting  username 
+2023-03-28 00:18:24,824  INFO [main] newSauce:43 - setting  password 
+2023-03-28 00:18:25,177  INFO [main] newSauce:47 - clicking button  
+2023-03-28 00:18:28,560 DEBUG [main] cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2023-03-28 00:18:28,563 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2023-03-28 00:18:28,569 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2023-03-28 00:18:28,569 DEBUG [main] cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/MICRON/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2023-03-28 00:18:28,848 DEBUG [main] cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2023-03-28 00:18:28,849 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2023-03-28 00:18:28,851 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2023-03-28 00:18:28,851 DEBUG [main] cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/MICRON/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2023-03-28 00:18:28,858 DEBUG [main] cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2023-03-28 00:18:28,861 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2023-03-28 00:18:28,862 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2023-03-28 00:18:28,863 DEBUG [main] cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/MICRON/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2023-03-28 00:18:28,876 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-03-28 00:18:28,878 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2023-03-28 00:18:28,880 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2023-03-28 00:18:28,881 DEBUG [main] cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/MICRON/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2023-03-28 00:18:28,904 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2023-03-28 00:18:28,906 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2023-03-28 00:18:28,908 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2023-03-28 00:18:28,908 DEBUG [main] cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/MICRON/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2023-03-28 00:18:28,941 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2023-03-28 00:18:28,942 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2023-03-28 00:18:28,943 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2023-03-28 00:18:28,944 DEBUG [main] cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/MICRON/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2023-03-28 00:18:28,973 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-03-28 00:18:28,975 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-03-28 00:18:28,976 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-03-28 00:18:28,979 DEBUG [main] cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-03-28 00:18:28,981 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2023-03-28 00:18:28,983 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2023-03-28 00:18:28,984 DEBUG [main] cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/MICRON/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2023-03-28 00:18:28,993 DEBUG [main] cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-03-28 00:18:28,994 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2023-03-28 00:18:28,995 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2023-03-28 00:18:28,996 DEBUG [main] cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/MICRON/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2023-03-28 00:18:29,004 DEBUG [main] cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-03-28 00:18:29,007 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2023-03-28 00:18:29,008 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2023-03-28 00:18:29,008 DEBUG [main] cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/MICRON/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2023-03-28 00:18:29,016 DEBUG [main] cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-03-28 00:18:29,017 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2023-03-28 00:18:29,020 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2023-03-28 00:18:29,021 DEBUG [main] cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/MICRON/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2023-03-28 00:18:29,036 DEBUG [main] cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-03-28 00:18:29,037 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2023-03-28 00:18:29,038 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2023-03-28 00:18:29,039 DEBUG [main] cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/MICRON/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2023-03-28 00:53:49,364  INFO [main] newSauce:36 - opened home page 
+2023-03-28 00:53:53,234  INFO [main] newSauce:40 - setting  username 
+2023-03-28 00:53:53,964  INFO [main] newSauce:43 - setting  password 
+2023-03-28 00:53:57,128  INFO [main] newSauce:47 - clicking button  
+2023-03-28 00:53:57,682  INFO [main] newSauce:36 - opened home page 
+2023-03-28 00:53:57,753  INFO [main] newSauce:40 - setting  username 
+2023-03-28 00:53:57,798  INFO [main] newSauce:43 - setting  password 
+2023-03-28 00:53:58,316  INFO [main] newSauce:47 - clicking button  
+2023-03-28 00:53:58,532  INFO [main] newSauce:36 - opened home page 
+2023-03-28 00:53:58,696  INFO [main] newSauce:40 - setting  username 
+2023-03-28 00:53:58,786  INFO [main] newSauce:43 - setting  password 
+2023-03-28 00:53:59,083  INFO [main] newSauce:47 - clicking button  
+2023-03-28 00:53:59,283  INFO [main] newSauce:36 - opened home page 
+2023-03-28 00:53:59,364  INFO [main] newSauce:40 - setting  username 
+2023-03-28 00:53:59,415  INFO [main] newSauce:43 - setting  password 
+2023-03-28 00:53:59,680  INFO [main] newSauce:47 - clicking button  
+2023-03-28 16:43:14,463  INFO [main] newSauce:36 - opened home page 
+2023-03-28 16:43:17,765  INFO [main] newSauce:40 - setting  username 
+2023-03-28 16:43:18,158  INFO [main] newSauce:43 - setting  password 
+2023-03-28 16:43:19,639  INFO [main] newSauce:47 - clicking button  
+2023-03-28 16:43:20,111  INFO [main] newSauce:36 - opened home page 
+2023-03-28 16:43:20,183  INFO [main] newSauce:40 - setting  username 
+2023-03-28 16:43:20,341  INFO [main] newSauce:43 - setting  password 
+2023-03-28 16:43:20,652  INFO [main] newSauce:47 - clicking button  
+2023-03-28 16:43:21,172  INFO [main] newSauce:36 - opened home page 
+2023-03-28 16:43:21,251  INFO [main] newSauce:40 - setting  username 
+2023-03-28 16:43:21,301  INFO [main] newSauce:43 - setting  password 
+2023-03-28 16:43:21,581  INFO [main] newSauce:47 - clicking button  
+2023-03-28 16:43:21,732  INFO [main] newSauce:36 - opened home page 
+2023-03-28 16:43:21,841  INFO [main] newSauce:40 - setting  username 
+2023-03-28 16:43:21,895  INFO [main] newSauce:43 - setting  password 
+2023-03-28 16:43:22,243  INFO [main] newSauce:47 - clicking button  
+2023-03-28 17:01:27,709  INFO [main] newSauce:36 - opened home page 
+2023-03-28 17:01:29,839  INFO [main] newSauce:40 - setting  username 
+2023-03-28 17:01:30,272  INFO [main] newSauce:43 - setting  password 
+2023-03-28 17:01:31,802  INFO [main] newSauce:47 - clicking button  
+2023-03-28 17:01:32,229  INFO [main] newSauce:36 - opened home page 
+2023-03-28 17:01:32,316  INFO [main] newSauce:40 - setting  username 
+2023-03-28 17:01:32,370  INFO [main] newSauce:43 - setting  password 
+2023-03-28 17:01:32,606  INFO [main] newSauce:47 - clicking button  
+2023-03-28 17:01:32,810  INFO [main] newSauce:36 - opened home page 
+2023-03-28 17:01:32,878  INFO [main] newSauce:40 - setting  username 
+2023-03-28 17:01:32,942  INFO [main] newSauce:43 - setting  password 
+2023-03-28 17:01:33,188  INFO [main] newSauce:47 - clicking button  
+2023-03-28 17:01:33,357  INFO [main] newSauce:36 - opened home page 
+2023-03-28 17:01:33,416  INFO [main] newSauce:40 - setting  username 
+2023-03-28 17:01:33,464  INFO [main] newSauce:43 - setting  password 
+2023-03-28 17:01:33,699  INFO [main] newSauce:47 - clicking button  
+2023-03-28 17:03:23,702  INFO [main] newSauce:36 - opened home page 
+2023-03-28 17:03:24,518  INFO [main] newSauce:40 - setting  username 
+2023-03-28 17:03:24,582  INFO [main] newSauce:43 - setting  password 
+2023-03-28 17:03:27,428  INFO [main] newSauce:47 - clicking button  
+2023-03-28 17:03:29,185  INFO [main] newSauce:36 - opened home page 
+2023-03-28 17:03:29,268  INFO [main] newSauce:40 - setting  username 
+2023-03-28 17:03:29,318  INFO [main] newSauce:43 - setting  password 
+2023-03-28 17:03:29,662  INFO [main] newSauce:47 - clicking button  
+2023-03-28 17:03:30,197  INFO [main] newSauce:36 - opened home page 
+2023-03-28 17:03:30,286  INFO [main] newSauce:40 - setting  username 
+2023-03-28 17:03:30,345  INFO [main] newSauce:43 - setting  password 
+2023-03-28 17:03:30,619  INFO [main] newSauce:47 - clicking button  
+2023-03-28 17:03:30,771  INFO [main] newSauce:36 - opened home page 
+2023-03-28 17:03:30,852  INFO [main] newSauce:40 - setting  username 
+2023-03-28 17:03:30,914  INFO [main] newSauce:43 - setting  password 
+2023-03-28 17:03:31,184  INFO [main] newSauce:47 - clicking button  
+2023-03-29 10:43:52,442  INFO [main] newSauce:34 - opened home page 
+2023-03-29 10:43:55,049  INFO [main] newSauce:38 - setting  username 
+2023-03-29 10:43:55,533  INFO [main] newSauce:41 - setting  password 
+2023-03-29 10:43:57,497  INFO [main] newSauce:45 - clicking button  
+2023-03-29 10:44:00,456  INFO [main] newSauce:34 - opened home page 
+2023-03-29 10:44:00,848  INFO [main] newSauce:38 - setting  username 
+2023-03-29 10:44:01,086  INFO [main] newSauce:41 - setting  password 
+2023-03-29 10:44:01,593  INFO [main] newSauce:45 - clicking button  
+2023-03-29 10:44:02,532  INFO [main] newSauce:34 - opened home page 
+2023-03-29 10:44:02,622  INFO [main] newSauce:38 - setting  username 
+2023-03-29 10:44:02,691  INFO [main] newSauce:41 - setting  password 
+2023-03-29 10:44:02,975  INFO [main] newSauce:45 - clicking button  
+2023-03-29 10:44:03,229  INFO [main] newSauce:34 - opened home page 
+2023-03-29 10:44:03,425  INFO [main] newSauce:38 - setting  username 
+2023-03-29 10:44:03,483  INFO [main] newSauce:41 - setting  password 
+2023-03-29 10:44:03,794  INFO [main] newSauce:45 - clicking button  
+2023-03-29 10:54:13,096  INFO [main] newSauce:35 - opened home page 
+2023-03-29 10:54:16,451  INFO [main] newSauce:39 - setting  username 
+2023-03-29 10:54:16,943  INFO [main] newSauce:42 - setting  password 
+2023-03-29 10:54:19,281  INFO [main] newSauce:46 - clicking button  
+2023-03-29 10:54:19,562  INFO [main] newSauce:49 - clicking button  
+2023-03-29 10:54:20,843  INFO [main] newSauce:35 - opened home page 
+2023-03-29 10:54:20,929  INFO [main] newSauce:39 - setting  username 
+2023-03-29 10:54:20,983  INFO [main] newSauce:42 - setting  password 
+2023-03-29 10:54:21,276  INFO [main] newSauce:46 - clicking button  
+2023-03-29 10:54:21,511  INFO [main] newSauce:49 - clicking button  
+2023-03-29 10:54:33,543  INFO [main] newSauce:51 - clicking button  
+2023-03-29 10:54:34,901  INFO [main] newSauce:35 - opened home page 
+2023-03-29 10:54:35,065  INFO [main] newSauce:39 - setting  username 
+2023-03-29 10:54:35,692  INFO [main] newSauce:42 - setting  password 
+2023-03-29 10:54:35,971  INFO [main] newSauce:46 - clicking button  
+2023-03-29 10:54:36,272  INFO [main] newSauce:49 - clicking button  
+2023-03-29 10:54:37,279  INFO [main] newSauce:51 - clicking button  
+2023-03-29 10:54:37,648  INFO [main] newSauce:35 - opened home page 
+2023-03-29 10:54:37,862  INFO [main] newSauce:39 - setting  username 
+2023-03-29 10:54:37,933  INFO [main] newSauce:42 - setting  password 
+2023-03-29 10:54:38,234  INFO [main] newSauce:46 - clicking button  
+2023-03-29 10:54:38,464  INFO [main] newSauce:49 - clicking button  
+2023-03-29 10:54:43,083  INFO [main] newSauce:51 - clicking button  
+2023-03-29 10:56:24,990  INFO [main] newSauce:35 - opened home page 
+2023-03-29 10:56:26,017  INFO [main] newSauce:39 - setting  username 
+2023-03-29 10:56:26,300  INFO [main] newSauce:42 - setting  password 
+2023-03-29 10:56:27,511  INFO [main] newSauce:46 - clicking button  
+2023-03-29 10:56:27,787  INFO [main] newSauce:49 - clicking button  
+2023-03-29 10:56:38,740  INFO [main] newSauce:51 - clicking button  
+2023-03-29 10:56:39,569  INFO [main] newSauce:35 - opened home page 
+2023-03-29 10:56:39,721  INFO [main] newSauce:39 - setting  username 
+2023-03-29 10:56:39,809  INFO [main] newSauce:42 - setting  password 
+2023-03-29 10:56:40,166  INFO [main] newSauce:46 - clicking button  
+2023-03-29 10:58:27,146  INFO [main] newSauce:49 - clicking button  
+2023-03-29 11:02:11,098  INFO [main] newSauce:35 - opened home page 
+2023-03-29 11:02:15,497  INFO [main] newSauce:39 - setting  username 
+2023-03-29 11:02:16,011  INFO [main] newSauce:42 - setting  password 
+2023-03-29 11:02:17,345  INFO [main] newSauce:46 - clicking button  
+2023-03-29 11:02:17,853  INFO [main] newSauce:49 - clicking button  
+2023-03-29 11:02:25,258  INFO [main] newSauce:51 - clicking button  
+2023-03-29 11:02:26,535  INFO [main] newSauce:35 - opened home page 
+2023-03-29 11:02:26,730  INFO [main] newSauce:39 - setting  username 
+2023-03-29 11:02:26,908  INFO [main] newSauce:42 - setting  password 
+2023-03-29 11:02:27,981  INFO [main] newSauce:46 - clicking button  
+2023-03-29 11:02:28,823  INFO [main] newSauce:49 - clicking button  
+2023-03-29 11:02:29,663  INFO [main] newSauce:35 - opened home page 
+2023-03-29 11:02:29,822  INFO [main] newSauce:39 - setting  username 
+2023-03-29 11:02:29,938  INFO [main] newSauce:42 - setting  password 
+2023-03-29 11:02:32,651  INFO [main] newSauce:46 - clicking button  
+2023-03-29 11:02:33,942  INFO [main] newSauce:49 - clicking button  
+2023-03-29 11:02:38,242  INFO [main] newSauce:51 - clicking button  
+2023-03-29 11:02:38,840  INFO [main] newSauce:35 - opened home page 
+2023-03-29 11:02:38,944  INFO [main] newSauce:39 - setting  username 
+2023-03-29 11:02:39,004  INFO [main] newSauce:42 - setting  password 
+2023-03-29 11:02:39,293  INFO [main] newSauce:46 - clicking button  
+2023-03-29 11:02:39,519  INFO [main] newSauce:49 - clicking button  
+2023-03-29 11:03:17,068  INFO [main] newSauce:51 - clicking button  
+2023-03-29 11:09:04,779  INFO [main] newSauce:35 - opened home page 
+2023-03-29 11:09:07,587  INFO [main] newSauce:39 - setting  username 
+2023-03-29 11:09:07,925  INFO [main] newSauce:42 - setting  password 
+2023-03-29 11:09:10,848  INFO [main] newSauce:46 - clicking button  
+2023-03-29 11:09:11,510  INFO [main] newSauce:35 - opened home page 
+2023-03-29 11:09:11,544  INFO [main] newSauce:39 - setting  username 
+2023-03-29 11:09:11,584  INFO [main] newSauce:42 - setting  password 
+2023-03-29 11:09:12,535  INFO [main] newSauce:46 - clicking button  
+2023-03-29 11:09:12,743  INFO [main] newSauce:35 - opened home page 
+2023-03-29 11:09:12,775  INFO [main] newSauce:39 - setting  username 
+2023-03-29 11:09:12,807  INFO [main] newSauce:42 - setting  password 
+2023-03-29 11:09:13,055  INFO [main] newSauce:46 - clicking button  
+2023-03-29 11:09:13,234  INFO [main] newSauce:35 - opened home page 
+2023-03-29 11:09:13,270  INFO [main] newSauce:39 - setting  username 
+2023-03-29 11:09:13,292  INFO [main] newSauce:42 - setting  password 
+2023-03-29 11:09:13,537  INFO [main] newSauce:46 - clicking button  
+2023-03-29 11:14:09,887  INFO [main] newSauce:35 - opened home page 
+2023-03-29 11:14:13,511  INFO [main] newSauce:39 - setting  username 
+2023-03-29 11:14:14,112  INFO [main] newSauce:42 - setting  password 
+2023-03-29 11:14:21,466  INFO [main] newSauce:46 - clicking button  
+2023-03-29 11:14:23,075  INFO [main] newSauce:49 - clicking button  
+2023-03-29 11:14:55,823  INFO [main] newSauce:51 - clicking button  
+2023-03-29 11:14:59,874  INFO [main] newSauce:35 - opened home page 
+2023-03-29 11:15:00,624  INFO [main] newSauce:39 - setting  username 
+2023-03-29 11:15:00,935  INFO [main] newSauce:42 - setting  password 
+2023-03-29 11:15:06,290  INFO [main] newSauce:46 - clicking button  
+2023-03-29 11:15:06,538  INFO [main] newSauce:49 - clicking button  
+2023-03-29 11:15:15,833  INFO [main] newSauce:51 - clicking button  
+2023-03-29 11:24:45,106  INFO [main] newSauce:35 - opened home page 
+2023-03-29 11:24:45,793  INFO [main] newSauce:39 - setting  username 
+2023-03-29 11:24:45,883  INFO [main] newSauce:42 - setting  password 
+2023-03-29 11:24:51,363  INFO [main] newSauce:46 - clicking button  
+2023-03-29 11:24:51,907  INFO [main] newSauce:49 - clicking button  
+2023-03-29 11:24:58,093  INFO [main] newSauce:51 - clicking button  
+2023-03-29 11:24:58,965  INFO [main] newSauce:35 - opened home page 
+2023-03-29 11:24:59,200  INFO [main] newSauce:39 - setting  username 
+2023-03-29 11:24:59,307  INFO [main] newSauce:42 - setting  password 
+2023-03-29 11:25:04,846  INFO [main] newSauce:46 - clicking button  
+2023-03-29 11:25:05,210  INFO [main] newSauce:49 - clicking button  
+2023-03-29 11:25:07,497  INFO [main] newSauce:51 - clicking button  
+2023-03-29 11:25:09,940  INFO [main] newSauce:35 - opened home page 
+2023-03-29 11:25:10,142  INFO [main] newSauce:39 - setting  username 
+2023-03-29 11:25:10,244  INFO [main] newSauce:42 - setting  password 
+2023-03-29 11:25:30,921  INFO [main] newSauce:46 - clicking button  
+2023-03-29 11:33:09,034  INFO [main] newSauce:35 - opened home page 
+2023-03-29 11:33:09,544  INFO [main] newSauce:39 - setting  username 
+2023-03-29 11:33:09,621  INFO [main] newSauce:42 - setting  password 
+2023-03-29 11:33:09,997  INFO [main] newSauce:46 - clicking button  
+2023-03-29 11:33:10,478  INFO [main] newSauce:35 - opened home page 
+2023-03-29 11:33:10,569  INFO [main] newSauce:39 - setting  username 
+2023-03-29 11:33:10,691  INFO [main] newSauce:42 - setting  password 
+2023-03-29 11:33:10,963  INFO [main] newSauce:46 - clicking button  
+2023-03-29 11:33:11,615  INFO [main] newSauce:35 - opened home page 
+2023-03-29 11:33:11,742  INFO [main] newSauce:39 - setting  username 
+2023-03-29 11:33:11,840  INFO [main] newSauce:42 - setting  password 
+2023-03-29 11:33:12,220  INFO [main] newSauce:46 - clicking button  
+2023-03-29 11:33:12,524  INFO [main] newSauce:35 - opened home page 
+2023-03-29 11:33:12,608  INFO [main] newSauce:39 - setting  username 
+2023-03-29 11:33:12,659  INFO [main] newSauce:42 - setting  password 
+2023-03-29 11:33:12,939  INFO [main] newSauce:46 - clicking button  
+2023-03-29 11:34:04,782  INFO [main] newSauce:35 - opened home page 
+2023-03-29 11:34:05,318  INFO [main] newSauce:39 - setting  username 
+2023-03-29 11:34:05,603  INFO [main] newSauce:42 - setting  password 
+2023-03-29 11:34:06,103  INFO [main] newSauce:46 - clicking button  
+2023-03-29 11:34:06,357  INFO [main] newSauce:49 - clicking button  
+2023-03-29 11:34:14,532  INFO [main] newSauce:51 - clicking button  
+2023-03-29 11:34:20,888  INFO [main] newSauce:35 - opened home page 
+2023-03-29 11:34:22,163  INFO [main] newSauce:39 - setting  username 
+2023-03-29 11:34:22,293  INFO [main] newSauce:42 - setting  password 
+2023-03-29 11:38:05,564  INFO [main] newSauce:36 - opened home page 
+2023-03-29 11:38:09,802  INFO [main] newSauce:40 - setting  username 
+2023-03-29 11:38:09,891  INFO [main] newSauce:43 - setting  password 
+2023-03-29 11:38:10,165  INFO [main] newSauce:47 - clicking button  
+2023-03-29 11:38:11,133  INFO [main] newSauce:36 - opened home page 
+2023-03-29 11:38:11,291  INFO [main] newSauce:40 - setting  username 
+2023-03-29 11:38:11,413  INFO [main] newSauce:43 - setting  password 
+2023-03-29 11:38:11,688  INFO [main] newSauce:47 - clicking button  
+2023-03-29 11:38:12,160  INFO [main] newSauce:36 - opened home page 
+2023-03-29 11:38:12,257  INFO [main] newSauce:40 - setting  username 
+2023-03-29 11:38:12,392  INFO [main] newSauce:43 - setting  password 
+2023-03-29 11:38:12,668  INFO [main] newSauce:47 - clicking button  
+2023-03-29 11:38:12,953  INFO [main] newSauce:36 - opened home page 
+2023-03-29 11:38:13,203  INFO [main] newSauce:40 - setting  username 
+2023-03-29 11:38:13,397  INFO [main] newSauce:43 - setting  password 
+2023-03-29 11:38:16,138  INFO [main] newSauce:47 - clicking button  
+2023-03-29 11:39:25,762  INFO [main] newSauce:35 - opened home page 
+2023-03-29 11:39:26,227  INFO [main] newSauce:39 - setting  username 
+2023-03-29 11:39:26,323  INFO [main] newSauce:42 - setting  password 
+2023-03-29 11:39:26,700  INFO [main] newSauce:46 - clicking button  
+2023-03-29 11:39:26,944  INFO [main] newSauce:49 - clicking button  
+2023-03-29 11:39:38,374  INFO [main] newSauce:51 - clicking button  
+2023-03-29 11:39:39,447  INFO [main] newSauce:35 - opened home page 
+2023-03-29 11:39:39,743  INFO [main] newSauce:39 - setting  username 
+2023-03-29 11:39:39,886  INFO [main] newSauce:35 - opened home page 
+2023-03-29 11:39:39,959  INFO [main] newSauce:42 - setting  password 
+2023-03-29 11:39:40,336  INFO [main] newSauce:39 - setting  username 
+2023-03-29 11:39:40,570  INFO [main] newSauce:42 - setting  password 
+2023-03-29 11:39:41,156  INFO [main] newSauce:46 - clicking button  
+2023-03-29 11:39:41,360  INFO [main] newSauce:46 - clicking button  
+2023-03-29 11:39:41,506  INFO [main] newSauce:49 - clicking button  
+2023-03-29 11:39:42,059  INFO [main] newSauce:35 - opened home page 
+2023-03-29 11:39:42,210  INFO [main] newSauce:39 - setting  username 
+2023-03-29 11:39:42,277  INFO [main] newSauce:42 - setting  password 
+2023-03-29 11:39:42,754  INFO [main] newSauce:46 - clicking button  
+2023-03-29 11:39:43,386  INFO [main] newSauce:49 - clicking button  
+2023-03-29 11:39:45,624  INFO [main] newSauce:51 - clicking button  
+2023-03-29 11:39:46,149  INFO [main] newSauce:51 - clicking button  
+2023-03-29 11:39:47,463  INFO [main] newSauce:35 - opened home page 
+2023-03-29 11:39:48,346  INFO [main] newSauce:35 - opened home page 
+2023-03-29 11:39:48,655  INFO [main] newSauce:39 - setting  username 
+2023-03-29 11:39:49,960  INFO [main] newSauce:39 - setting  username 
+2023-03-29 11:39:50,041  INFO [main] newSauce:42 - setting  password 
+2023-03-29 11:39:50,772  INFO [main] newSauce:42 - setting  password 
+2023-03-29 11:39:55,742  INFO [main] newSauce:46 - clicking button  
+2023-03-29 11:39:56,627  INFO [main] newSauce:46 - clicking button  
+2023-03-29 11:39:57,489  INFO [main] newSauce:49 - clicking button  
+2023-03-29 11:39:57,778  INFO [main] newSauce:49 - clicking button  
+2023-03-29 11:39:59,261  INFO [main] newSauce:51 - clicking button  
+2023-03-29 11:40:07,678  INFO [main] newSauce:51 - clicking button  
+2023-03-29 11:43:49,859  INFO [main] newSauce:35 - opened home page 
+2023-03-29 11:43:50,221  INFO [main] newSauce:39 - setting  username 
+2023-03-29 11:43:50,317  INFO [main] newSauce:42 - setting  password 
+2023-03-29 11:43:50,924  INFO [main] newSauce:46 - clicking button  
+2023-03-29 11:43:51,158  INFO [main] newSauce:49 - clicking button  
+2023-03-29 11:43:57,368  INFO [main] newSauce:51 - clicking button  
+2023-03-29 11:43:59,707  INFO [main] newSauce:35 - opened home page 
+2023-03-29 11:44:00,190  INFO [main] newSauce:39 - setting  username 
+2023-03-29 11:44:00,285  INFO [main] newSauce:42 - setting  password 
+2023-03-29 11:44:02,166  INFO [main] newSauce:46 - clicking button  
+2023-03-29 11:44:02,796  INFO [main] newSauce:35 - opened home page 
+2023-03-29 11:44:02,912  INFO [main] newSauce:39 - setting  username 
+2023-03-29 11:44:03,029  INFO [main] newSauce:42 - setting  password 
+2023-03-29 11:44:03,426  INFO [main] newSauce:46 - clicking button  
+2023-03-29 11:44:03,688  INFO [main] newSauce:49 - clicking button  
+2023-03-29 11:44:05,363  INFO [main] newSauce:51 - clicking button  
+2023-03-29 11:44:07,158  INFO [main] newSauce:35 - opened home page 
+2023-03-29 11:44:07,377  INFO [main] newSauce:39 - setting  username 
+2023-03-29 11:44:07,463  INFO [main] newSauce:42 - setting  password 
+2023-03-29 11:44:12,808  INFO [main] newSauce:46 - clicking button  
+2023-03-29 11:44:13,062  INFO [main] newSauce:49 - clicking button  
+2023-03-29 11:44:42,446  INFO [main] newSauce:51 - clicking button  
+2023-03-29 11:50:33,344  INFO [main] newSauce:35 - opened home page 
+2023-03-29 11:50:37,470  INFO [main] newSauce:39 - setting  username 
+2023-03-29 11:50:37,957  INFO [main] newSauce:42 - setting  password 
+2023-03-29 11:50:41,937  INFO [main] newSauce:46 - clicking button  
+2023-03-29 11:50:42,282  INFO [main] newSauce:49 - clicking button  
+2023-03-29 11:51:07,212  INFO [main] newSauce:51 - clicking button  
+2023-03-29 11:51:11,204  INFO [main] newSauce:35 - opened home page 
+2023-03-29 11:51:16,498  INFO [main] newSauce:39 - setting  username 
+2023-03-29 11:51:17,489  INFO [main] newSauce:42 - setting  password 
+2023-03-29 11:51:19,538  INFO [main] newSauce:46 - clicking button  
+2023-03-29 11:51:21,858  INFO [main] newSauce:35 - opened home page 
+2023-03-29 11:51:22,119  INFO [main] newSauce:39 - setting  username 
+2023-03-29 11:51:22,394  INFO [main] newSauce:42 - setting  password 
+2023-03-29 11:51:24,405  INFO [main] newSauce:46 - clicking button  
+2023-03-29 11:51:25,005  INFO [main] newSauce:49 - clicking button  
+2023-03-29 11:51:35,301  INFO [main] newSauce:51 - clicking button  
+2023-03-29 11:51:35,761  INFO [main] newSauce:35 - opened home page 
+2023-03-29 11:51:35,881  INFO [main] newSauce:39 - setting  username 
+2023-03-29 11:51:35,961  INFO [main] newSauce:42 - setting  password 
+2023-03-29 11:51:41,340  INFO [main] newSauce:46 - clicking button  
+2023-03-29 11:51:41,609  INFO [main] newSauce:49 - clicking button  
+2023-03-29 11:51:46,415  INFO [main] newSauce:51 - clicking button  
+2023-03-29 11:53:18,814  INFO [main] newSauce:35 - opened home page 
+2023-03-29 11:53:19,303  INFO [main] newSauce:39 - setting  username 
+2023-03-29 11:53:19,513  INFO [main] newSauce:42 - setting  password 
+2023-03-29 11:53:19,917  INFO [main] newSauce:46 - clicking button  
+2023-03-29 11:53:20,821  INFO [main] newSauce:49 - clicking button  
+2023-03-29 11:53:21,892  INFO [main] newSauce:35 - opened home page 
+2023-03-29 11:53:21,997  INFO [main] newSauce:39 - setting  username 
+2023-03-29 11:53:22,064  INFO [main] newSauce:42 - setting  password 
+2023-03-29 11:53:23,946  INFO [main] newSauce:46 - clicking button  
+2023-03-29 11:53:24,284  INFO [main] newSauce:35 - opened home page 
+2023-03-29 11:53:24,449  INFO [main] newSauce:39 - setting  username 
+2023-03-29 11:53:24,852  INFO [main] newSauce:42 - setting  password 
+2023-03-29 11:53:25,149  INFO [main] newSauce:46 - clicking button  
+2023-03-29 11:53:26,727  INFO [main] newSauce:49 - clicking button  
+2023-03-29 11:53:52,121  INFO [main] newSauce:51 - clicking button  
+2023-03-29 11:53:57,190  INFO [main] newSauce:35 - opened home page 
+2023-03-29 11:53:57,966  INFO [main] newSauce:39 - setting  username 
+2023-03-29 11:53:58,045  INFO [main] newSauce:42 - setting  password 
+2023-03-29 11:54:04,397  INFO [main] newSauce:46 - clicking button  
+2023-03-29 11:54:04,823  INFO [main] newSauce:49 - clicking button  
+2023-03-29 11:54:17,167  INFO [main] newSauce:51 - clicking button  
+2023-03-29 11:57:11,737  INFO [main] newSauce:35 - opened home page 
+2023-03-29 11:57:17,386  INFO [main] newSauce:39 - setting  username 
+2023-03-29 11:57:17,728  INFO [main] newSauce:42 - setting  password 
+2023-03-29 11:57:24,955  INFO [main] newSauce:46 - clicking button  
+2023-03-29 11:57:25,352  INFO [main] newSauce:49 - clicking button  
+2023-03-29 11:58:04,928  INFO [main] newSauce:35 - opened home page 
+2023-03-29 11:58:05,538  INFO [main] newSauce:39 - setting  username 
+2023-03-29 11:58:05,657  INFO [main] newSauce:42 - setting  password 
+2023-03-29 11:58:06,201  INFO [main] newSauce:46 - clicking button  
+2023-03-29 11:58:08,050  INFO [main] newSauce:49 - clicking button  
+2023-03-29 11:58:15,833  INFO [main] newSauce:51 - clicking button  
+2023-03-29 11:58:29,507  INFO [main] newSauce:35 - opened home page 
+2023-03-29 12:03:47,757  INFO [main] newSauce:35 - opened home page 
+2023-03-29 12:03:54,060  INFO [main] newSauce:39 - setting  username 
+2023-03-29 12:03:54,404  INFO [main] newSauce:42 - setting  password 
+2023-03-29 12:03:56,095  INFO [main] newSauce:46 - clicking button  
+2023-03-29 12:03:56,424  INFO [main] newSauce:49 - clicking button  
+2023-03-29 12:04:13,803  INFO [main] newSauce:51 - clicking button  
+2023-03-29 12:04:16,203  INFO [main] newSauce:35 - opened home page 
+2023-03-29 12:04:16,680  INFO [main] newSauce:39 - setting  username 
+2023-03-29 12:04:16,902  INFO [main] newSauce:42 - setting  password 
+2023-03-29 12:04:17,734  INFO [main] newSauce:46 - clicking button  
+2023-03-29 12:04:19,063  INFO [main] newSauce:35 - opened home page 
+2023-03-29 12:04:19,133  INFO [main] newSauce:39 - setting  username 
+2023-03-29 12:04:19,254  INFO [main] newSauce:42 - setting  password 
+2023-03-29 12:04:19,536  INFO [main] newSauce:46 - clicking button  
+2023-03-29 12:04:19,766  INFO [main] newSauce:49 - clicking button  
+2023-03-29 12:04:22,618  INFO [main] newSauce:51 - clicking button  
+2023-03-29 12:04:23,036  INFO [main] newSauce:35 - opened home page 
+2023-03-29 12:04:23,330  INFO [main] newSauce:39 - setting  username 
+2023-03-29 12:04:23,521  INFO [main] newSauce:42 - setting  password 
+2023-03-29 12:04:28,823  INFO [main] newSauce:46 - clicking button  
+2023-03-29 12:04:29,067  INFO [main] newSauce:49 - clicking button  
+2023-03-29 12:04:33,250  INFO [main] newSauce:51 - clicking button  
+2023-03-29 22:10:53,693  INFO [main] newSauce:36 - opened home page 
+2023-03-29 22:10:59,658  INFO [main] newSauce:40 - setting  username 
+2023-03-29 22:11:00,481  INFO [main] newSauce:43 - setting  password 
+2023-03-29 22:11:01,704  INFO [main] newSauce:47 - clicking button  
+2023-03-29 22:11:02,280  INFO [main] newSauce:36 - opened home page 
+2023-03-29 22:11:02,395  INFO [main] newSauce:40 - setting  username 
+2023-03-29 22:11:02,562  INFO [main] newSauce:43 - setting  password 
+2023-03-29 22:11:02,665  INFO [main] newSauce:47 - clicking button  
+2023-03-29 22:11:03,107  INFO [main] newSauce:36 - opened home page 
+2023-03-29 22:11:03,235  INFO [main] newSauce:40 - setting  username 
+2023-03-29 22:11:03,432  INFO [main] newSauce:43 - setting  password 
+2023-03-29 22:11:03,547  INFO [main] newSauce:47 - clicking button  
+2023-03-29 22:11:03,702  INFO [main] newSauce:36 - opened home page 
+2023-03-29 22:11:03,865  INFO [main] newSauce:40 - setting  username 
+2023-03-29 22:11:04,016  INFO [main] newSauce:43 - setting  password 
+2023-03-29 22:11:07,844  INFO [main] newSauce:47 - clicking button  
+2023-03-29 22:15:48,073  INFO [main] newSauce:20 - opened home page 
+2023-03-29 22:15:48,988  INFO [main] newSauce:24 - setting  username 
+2023-03-29 22:15:49,146  INFO [main] newSauce:27 - setting  password 
+2023-03-29 22:15:51,264  INFO [main] newSauce:29 - clicking button  
+2023-03-29 22:15:51,823  INFO [main] newSauce:33 - select  
+2023-03-29 22:15:51,909  INFO [main] newSauce:36 - clickadd  
+2023-03-29 22:18:48,621  INFO [main] newSauce:20 - opened home page 
+2023-03-29 22:18:49,457  INFO [main] newSauce:24 - setting  username 
+2023-03-29 22:18:49,588  INFO [main] newSauce:27 - setting  password 
+2023-03-29 22:18:50,367  INFO [main] newSauce:29 - clicking button  
+2023-03-29 22:18:50,743  INFO [main] newSauce:33 - select  
+2023-03-29 22:18:50,818  INFO [main] newSauce:36 - clickadd  
+2023-03-29 22:21:10,310  INFO [main] newSauce:20 - opened home page 
+2023-03-29 22:21:10,507  INFO [main] newSauce:24 - setting  username 
+2023-03-29 22:21:10,608  INFO [main] newSauce:27 - setting  password 
+2023-03-29 22:21:10,734  INFO [main] newSauce:29 - clicking button  
+2023-03-29 22:21:13,913  INFO [main] newSauce:34 - select  
+2023-03-29 22:21:13,966  INFO [main] newSauce:37 - clickadd  
+2023-03-29 22:22:36,615  INFO [main] newSauce:21 - opened home page 
+2023-03-29 22:22:36,779  INFO [main] newSauce:25 - setting  username 
+2023-03-29 22:22:36,882  INFO [main] newSauce:28 - setting  password 
+2023-03-29 22:22:37,017  INFO [main] newSauce:30 - clicking button  
+2023-03-29 22:22:40,296  INFO [main] newSauce:35 - select  
+2023-03-29 22:22:40,363  INFO [main] newSauce:38 - clickadd  
+2023-03-29 22:25:06,795  INFO [main] newSauce:21 - opened home page 
+2023-03-29 22:25:06,970  INFO [main] newSauce:25 - setting  username 
+2023-03-29 22:25:07,097  INFO [main] newSauce:28 - setting  password 
+2023-03-29 22:25:07,236  INFO [main] newSauce:30 - clicking button  
+2023-03-29 22:25:10,503  INFO [main] newSauce:35 - select  
+2023-03-29 22:25:10,568  INFO [main] newSauce:38 - clickadd  
+2023-03-29 22:32:03,807  INFO [main] newSauce:21 - opened home page 
+2023-03-29 22:32:06,151  INFO [main] newSauce:25 - setting  username 
+2023-03-29 22:32:06,263  INFO [main] newSauce:28 - setting  password 
+2023-03-29 22:32:07,010  INFO [main] newSauce:30 - clicking button  
+2023-03-29 22:32:10,429  INFO [main] newSauce:35 - select  
+2023-03-29 22:32:10,504  INFO [main] newSauce:38 - clickadd  
+2023-03-29 22:36:14,260  INFO [main] newSauce:21 - opened home page 
+2023-03-29 22:36:16,284  INFO [main] newSauce:25 - setting  username 
+2023-03-29 22:36:16,431  INFO [main] newSauce:28 - setting  password 
+2023-03-29 22:36:16,888  INFO [main] newSauce:30 - clicking button  
+2023-03-29 22:36:20,222  INFO [main] newSauce:35 - select  
+2023-03-29 22:36:20,286  INFO [main] newSauce:38 - clickadd  
+2023-03-29 22:37:51,781  INFO [main] newSauce:21 - opened home page 
+2023-03-29 22:37:51,959  INFO [main] newSauce:25 - setting  username 
+2023-03-29 22:37:52,065  INFO [main] newSauce:28 - setting  password 
+2023-03-29 22:37:52,199  INFO [main] newSauce:30 - clicking button  
+2023-03-29 22:37:55,336  INFO [main] newSauce:35 - select  
+2023-03-29 22:37:55,397  INFO [main] newSauce:38 - clickadd  
+2023-03-29 22:43:23,802  INFO [main] newSauce:21 - opened home page 
+2023-03-29 22:43:24,992  INFO [main] newSauce:25 - setting  username 
+2023-03-29 22:43:25,112  INFO [main] newSauce:28 - setting  password 
+2023-03-29 22:43:25,382  INFO [main] newSauce:30 - clicking button  
+2023-03-29 22:43:28,669  INFO [main] newSauce:35 - select  
+2023-03-29 22:43:28,741  INFO [main] newSauce:38 - clickadd  
+2023-03-29 22:43:31,641  INFO [main] newSauce:61 - opened home page 
+2023-03-29 22:43:31,772  INFO [main] newSauce:65 - setting  username 
+2023-03-29 22:43:31,889  INFO [main] newSauce:68 - setting  password 
+2023-03-29 22:43:32,020  INFO [main] newSauce:70 - clicking button  
+2023-03-29 22:43:32,104  INFO [main] newSauce:75 - Findproduct1  
+2023-03-29 22:45:01,907  INFO [main] newSauce:21 - opened home page 
+2023-03-29 22:45:02,082  INFO [main] newSauce:25 - setting  username 
+2023-03-29 22:45:02,200  INFO [main] newSauce:28 - setting  password 
+2023-03-29 22:45:02,352  INFO [main] newSauce:30 - clicking button  
+2023-03-29 22:45:05,511  INFO [main] newSauce:35 - select  
+2023-03-29 22:45:05,576  INFO [main] newSauce:38 - clickadd  
+2023-03-29 22:45:07,877  INFO [main] newSauce:61 - opened home page 
+2023-03-29 22:45:08,038  INFO [main] newSauce:65 - setting  username 
+2023-03-29 22:45:08,149  INFO [main] newSauce:68 - setting  password 
+2023-03-29 22:45:08,320  INFO [main] newSauce:70 - clicking button  
+2023-03-29 22:45:08,411  INFO [main] newSauce:75 - Findproduct1  
+2023-03-29 22:45:13,512  INFO [main] newSauce:78 - cartlist  
+2023-03-29 22:45:18,649  INFO [main] newSauce:81 - checkout1  
+2023-03-29 22:51:21,443  INFO [main] newSauce:21 - opened home page 
+2023-03-29 22:51:23,068  INFO [main] newSauce:25 - setting  username 
+2023-03-29 22:51:23,395  INFO [main] newSauce:28 - setting  password 
+2023-03-29 22:51:24,240  INFO [main] newSauce:30 - clicking button  
+2023-03-29 22:51:27,768  INFO [main] newSauce:35 - select  
+2023-03-29 22:51:27,857  INFO [main] newSauce:38 - clickadd  
+2023-03-29 22:51:30,531  INFO [main] newSauce:61 - opened home page 
+2023-03-29 22:51:30,635  INFO [main] newSauce:65 - setting  username 
+2023-03-29 22:51:30,728  INFO [main] newSauce:68 - setting  password 
+2023-03-29 22:51:30,851  INFO [main] newSauce:70 - clicking button  
+2023-03-29 22:51:30,931  INFO [main] newSauce:75 - Findproduct1  
+2023-03-29 22:51:35,986  INFO [main] newSauce:78 - cartlist  
+2023-03-29 22:51:41,095  INFO [main] newSauce:81 - checkout1  
+2023-03-29 22:54:48,465  INFO [main] newSauce:21 - opened home page 
+2023-03-29 22:54:50,542  INFO [main] newSauce:25 - setting  username 
+2023-03-29 22:54:50,698  INFO [main] newSauce:28 - setting  password 
+2023-03-29 22:54:51,376  INFO [main] newSauce:30 - clicking button  
+2023-03-29 22:54:54,924  INFO [main] newSauce:36 - select  
+2023-03-29 22:54:55,000  INFO [main] newSauce:39 - clickadd  
+2023-03-29 22:54:59,184  INFO [main] newSauce:62 - opened home page 
+2023-03-29 22:54:59,320  INFO [main] newSauce:66 - setting  username 
+2023-03-29 22:54:59,437  INFO [main] newSauce:69 - setting  password 
+2023-03-29 22:54:59,775  INFO [main] newSauce:71 - clicking button  
+2023-03-29 22:55:00,382  INFO [main] newSauce:76 - Findproduct1  
+2023-03-29 22:55:05,668  INFO [main] newSauce:79 - cartlist  
+2023-03-29 22:55:10,766  INFO [main] newSauce:82 - checkout1  
+2023-03-29 22:56:15,083  INFO [main] newSauce:21 - opened home page 
+2023-03-29 22:56:15,277  INFO [main] newSauce:25 - setting  username 
+2023-03-29 22:56:15,395  INFO [main] newSauce:28 - setting  password 
+2023-03-29 22:56:15,531  INFO [main] newSauce:30 - clicking button  
+2023-03-29 22:56:18,724  INFO [main] newSauce:36 - select  
+2023-03-29 22:56:18,843  INFO [main] newSauce:39 - clickadd  
+2023-03-29 22:56:21,136  INFO [main] newSauce:62 - opened home page 
+2023-03-29 22:56:21,283  INFO [main] newSauce:66 - setting  username 
+2023-03-29 22:56:21,399  INFO [main] newSauce:69 - setting  password 
+2023-03-29 22:56:21,532  INFO [main] newSauce:71 - clicking button  
+2023-03-29 22:56:21,657  INFO [main] newSauce:76 - Findproduct1  
+2023-03-29 22:56:26,719  INFO [main] newSauce:79 - cartlist  
+2023-03-29 22:56:31,812  INFO [main] newSauce:82 - checkout1  
+2023-03-29 22:58:38,107  INFO [main] newSauce:21 - opened home page 
+2023-03-29 22:58:38,349  INFO [main] newSauce:25 - setting  username 
+2023-03-29 22:58:38,457  INFO [main] newSauce:28 - setting  password 
+2023-03-29 22:58:38,599  INFO [main] newSauce:30 - clicking button  
+2023-03-29 22:58:41,770  INFO [main] newSauce:36 - select  
+2023-03-29 22:58:41,831  INFO [main] newSauce:39 - clickadd  
+2023-03-29 22:58:44,248  INFO [main] newSauce:62 - opened home page 
+2023-03-29 22:58:44,412  INFO [main] newSauce:66 - setting  username 
+2023-03-29 22:58:44,541  INFO [main] newSauce:69 - setting  password 
+2023-03-29 22:58:44,690  INFO [main] newSauce:71 - clicking button  
+2023-03-29 22:58:44,778  INFO [main] newSauce:76 - Findproduct1  
+2023-03-29 22:58:49,856  INFO [main] newSauce:79 - cartlist  
+2023-03-29 22:58:54,953  INFO [main] newSauce:82 - checkout1  
+2023-03-29 23:00:02,040  INFO [main] newSauce:21 - opened home page 
+2023-03-29 23:00:02,188  INFO [main] newSauce:25 - setting  username 
+2023-03-29 23:00:02,300  INFO [main] newSauce:28 - setting  password 
+2023-03-29 23:00:02,424  INFO [main] newSauce:30 - clicking button  
+2023-03-29 23:00:05,638  INFO [main] newSauce:36 - select  
+2023-03-29 23:00:05,711  INFO [main] newSauce:39 - clickadd  
+2023-03-29 23:00:08,897  INFO [main] newSauce:64 - opened home page 
+2023-03-29 23:00:09,199  INFO [main] newSauce:68 - setting  username 
+2023-03-29 23:00:09,323  INFO [main] newSauce:71 - setting  password 
+2023-03-29 23:00:09,482  INFO [main] newSauce:73 - clicking button  
+2023-03-29 23:00:09,705  INFO [main] newSauce:78 - Findproduct1  
+2023-03-29 23:00:14,774  INFO [main] newSauce:81 - cartlist  
+2023-03-29 23:00:19,907  INFO [main] newSauce:84 - checkout1  
+2023-03-29 23:04:01,922  INFO [main] newSauce:21 - opened home page 
+2023-03-29 23:04:02,088  INFO [main] newSauce:25 - setting  username 
+2023-03-29 23:04:02,193  INFO [main] newSauce:28 - setting  password 
+2023-03-29 23:04:02,335  INFO [main] newSauce:30 - clicking button  
+2023-03-29 23:04:05,656  INFO [main] newSauce:70 - opened home page 
+2023-03-29 23:04:05,796  INFO [main] newSauce:74 - setting  username 
+2023-03-29 23:04:05,925  INFO [main] newSauce:77 - setting  password 
+2023-03-29 23:04:06,044  INFO [main] newSauce:79 - clicking button  
+2023-03-29 23:04:06,138  INFO [main] newSauce:84 - Findproduct1  
+2023-03-29 23:04:11,190  INFO [main] newSauce:87 - cartlist  
+2023-03-29 23:04:16,270  INFO [main] newSauce:90 - checkout1  
+2023-03-29 23:05:49,508  INFO [main] newSauce:21 - opened home page 
+2023-03-29 23:05:49,705  INFO [main] newSauce:25 - setting  username 
+2023-03-29 23:05:49,808  INFO [main] newSauce:28 - setting  password 
+2023-03-29 23:05:49,929  INFO [main] newSauce:30 - clicking button  
+2023-03-29 23:05:50,010  INFO [main] newSauce:35 - Findproduct1  
+2023-03-29 23:05:55,070  INFO [main] newSauce:38 - cartlist  
+2023-03-29 23:06:00,152  INFO [main] newSauce:41 - checkout1  
+2023-03-29 23:06:00,457  INFO [main] newSauce:61 - opened home page 
+2023-03-29 23:06:00,616  INFO [main] newSauce:65 - setting  username 
+2023-03-29 23:06:00,743  INFO [main] newSauce:68 - setting  password 
+2023-03-29 23:06:00,889  INFO [main] newSauce:70 - clicking button  
+2023-03-29 23:06:00,980  INFO [main] newSauce:75 - Findproduct1  
+2023-03-29 23:06:06,044  INFO [main] newSauce:78 - cartlist  
+2023-03-29 23:06:11,123  INFO [main] newSauce:81 - checkout1  
+2023-03-29 23:07:53,856  INFO [main] newSauce:20 - opened home page 
+2023-03-29 23:07:54,154  INFO [main] newSauce:24 - setting  username 
+2023-03-29 23:07:54,284  INFO [main] newSauce:27 - setting  password 
+2023-03-29 23:07:54,425  INFO [main] newSauce:29 - clicking button  
+2023-03-29 23:08:55,860  INFO [main] newSauce:20 - opened home page 
+2023-03-29 23:08:56,152  INFO [main] newSauce:24 - setting  username 
+2023-03-29 23:08:56,263  INFO [main] newSauce:27 - setting  password 
+2023-03-29 23:08:56,409  INFO [main] newSauce:29 - clicking button  
+2023-03-29 23:08:56,412  INFO [main] newSauce:33 - productpage  
+2023-03-29 23:16:29,234  INFO [main] newSauce:20 - opened home page 
+2023-03-29 23:16:30,905  INFO [main] newSauce:24 - setting  username 
+2023-03-29 23:16:31,057  INFO [main] newSauce:27 - setting  password 
+2023-03-29 23:16:31,548  INFO [main] newSauce:29 - clicking button  
+2023-03-29 23:16:31,551  INFO [main] newSauce:33 - productpage  
+2023-03-29 23:18:18,634  INFO [main] newSauce:21 - opened home page 
+2023-03-29 23:18:18,821  INFO [main] newSauce:25 - setting  username 
+2023-03-29 23:18:19,029  INFO [main] newSauce:28 - setting  password 
+2023-03-29 23:18:19,309  INFO [main] newSauce:30 - clicking button  
+2023-03-29 23:18:19,312  INFO [main] newSauce:34 - productpage  
+2023-03-29 23:20:52,454  INFO [main] newSauce:36 - opened home page 
+2023-03-29 23:20:54,964  INFO [main] newSauce:40 - setting  username 
+2023-03-29 23:20:55,098  INFO [main] newSauce:43 - setting  password 
+2023-03-29 23:20:55,324  INFO [main] newSauce:47 - clicking button  
+2023-03-29 23:20:55,836  INFO [main] newSauce:36 - opened home page 
+2023-03-29 23:20:55,931  INFO [main] newSauce:40 - setting  username 
+2023-03-29 23:20:56,035  INFO [main] newSauce:43 - setting  password 
+2023-03-29 23:20:56,121  INFO [main] newSauce:47 - clicking button  
+2023-03-29 23:20:56,633  INFO [main] newSauce:36 - opened home page 
+2023-03-29 23:20:56,727  INFO [main] newSauce:40 - setting  username 
+2023-03-29 23:20:56,859  INFO [main] newSauce:43 - setting  password 
+2023-03-29 23:20:56,932  INFO [main] newSauce:47 - clicking button  
+2023-03-29 23:20:57,109  INFO [main] newSauce:36 - opened home page 
+2023-03-29 23:20:57,259  INFO [main] newSauce:40 - setting  username 
+2023-03-29 23:20:57,380  INFO [main] newSauce:43 - setting  password 
+2023-03-29 23:20:57,748  INFO [main] newSauce:47 - clicking button  
+2023-03-29 23:20:57,887  INFO [main] newSauce:21 - opened home page 
+2023-03-29 23:21:02,463  INFO [main] newSauce:25 - setting  username 
+2023-03-29 23:21:02,582  INFO [main] newSauce:28 - setting  password 
+2023-03-29 23:21:02,693  INFO [main] newSauce:30 - clicking button  
+2023-03-29 23:21:02,802  INFO [main] newSauce:34 - productpage  
+2023-03-29 23:21:03,177  INFO [main] newSauce:21 - opened home page 
+2023-03-29 23:21:03,378  INFO [main] newSauce:25 - setting  username 
+2023-03-29 23:21:03,529  INFO [main] newSauce:28 - setting  password 
+2023-03-29 23:21:03,621  INFO [main] newSauce:30 - clicking button  
+2023-03-29 23:21:03,734  INFO [main] newSauce:35 - Findproduct1  
+2023-03-29 23:21:08,817  INFO [main] newSauce:38 - cartlist  
+2023-03-29 23:21:13,912  INFO [main] newSauce:41 - checkout1  
+2023-03-29 23:21:14,154  INFO [main] newSauce:61 - opened home page 
+2023-03-29 23:21:14,294  INFO [main] newSauce:65 - setting  username 
+2023-03-29 23:21:14,402  INFO [main] newSauce:68 - setting  password 
+2023-03-29 23:21:14,501  INFO [main] newSauce:70 - clicking button  
+2023-03-29 23:21:14,563  INFO [main] newSauce:75 - Findproduct1  
+2023-03-29 23:21:19,662  INFO [main] newSauce:78 - cartlist  
+2023-03-29 23:21:24,757  INFO [main] newSauce:81 - checkout1  
+2023-03-29 23:21:29,972 DEBUG [main] cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2023-03-29 23:21:29,975 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2023-03-29 23:21:29,980 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2023-03-29 23:21:29,981 DEBUG [main] cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/MICRON/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2023-03-29 23:21:30,885 DEBUG [main] cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2023-03-29 23:21:30,888 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2023-03-29 23:21:30,892 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2023-03-29 23:21:30,893 DEBUG [main] cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/MICRON/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2023-03-29 23:21:30,902 DEBUG [main] cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2023-03-29 23:21:30,936 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2023-03-29 23:21:30,959 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2023-03-29 23:21:30,961 DEBUG [main] cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/MICRON/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2023-03-29 23:21:30,970 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-03-29 23:21:30,971 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2023-03-29 23:21:30,972 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2023-03-29 23:21:30,972 DEBUG [main] cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/MICRON/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2023-03-29 23:21:30,982 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2023-03-29 23:21:30,983 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2023-03-29 23:21:30,984 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2023-03-29 23:21:30,984 DEBUG [main] cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/MICRON/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2023-03-29 23:21:31,063 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2023-03-29 23:21:31,063 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2023-03-29 23:21:31,104 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2023-03-29 23:21:31,105 DEBUG [main] cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/MICRON/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2023-03-29 23:21:31,134 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-03-29 23:21:31,136 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-03-29 23:21:31,139 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-03-29 23:21:31,143 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-03-29 23:21:31,144 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-03-29 23:21:31,148 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-03-29 23:21:31,150 DEBUG [main] cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-03-29 23:21:31,179 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2023-03-29 23:21:31,180 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2023-03-29 23:21:31,181 DEBUG [main] cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/MICRON/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2023-03-29 23:21:31,193 DEBUG [main] cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-03-29 23:21:31,196 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2023-03-29 23:21:31,198 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2023-03-29 23:21:31,198 DEBUG [main] cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/MICRON/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2023-03-29 23:21:31,205 DEBUG [main] cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-03-29 23:21:31,209 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2023-03-29 23:21:31,210 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2023-03-29 23:21:31,211 DEBUG [main] cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/MICRON/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2023-03-29 23:21:31,220 DEBUG [main] cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-03-29 23:21:31,222 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2023-03-29 23:21:31,225 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2023-03-29 23:21:31,226 DEBUG [main] cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/MICRON/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2023-03-29 23:21:31,274 DEBUG [main] cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-03-29 23:21:31,275 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2023-03-29 23:21:31,276 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2023-03-29 23:21:31,276 DEBUG [main] cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/MICRON/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2023-03-30 23:37:27,698  INFO [main] newSauce:17 - opened home page 
+2023-03-30 23:37:33,579  INFO [main] newSauce:21 - setting  username 
+2023-03-30 23:37:33,680  INFO [main] newSauce:24 - setting  password 
+2023-03-30 23:37:34,058  INFO [main] newSauce:26 - clicking button  
+2023-03-30 23:37:36,212  INFO [main] newSauce:35 - Addtocartclick  
+2023-03-30 23:37:36,329  INFO [main] newSauce:41 - checkout  
+2023-03-30 23:37:36,442  INFO [main] newSauce:44 - setting  username 
+2023-03-30 23:37:36,680  INFO [main] newSauce:47 - setting  lastname 
+2023-03-30 23:37:36,744  INFO [main] newSauce:50 - setting  pincode 
+2023-03-30 23:37:36,837  INFO [main] newSauce:53 - continies  
+2023-03-30 23:40:14,969  INFO [main] newSauce:17 - opened home page 
+2023-03-30 23:40:19,040  INFO [main] newSauce:21 - setting  username 
+2023-03-30 23:40:19,142  INFO [main] newSauce:24 - setting  password 
+2023-03-30 23:40:19,535  INFO [main] newSauce:26 - clicking button  
+2023-03-30 23:40:21,646  INFO [main] newSauce:35 - Addtocartclick  
+2023-03-30 23:40:21,745  INFO [main] newSauce:41 - checkout  
+2023-03-30 23:40:22,135  INFO [main] newSauce:44 - setting  username 
+2023-03-30 23:40:22,279  INFO [main] newSauce:47 - setting  lastname 
+2023-03-30 23:40:22,344  INFO [main] newSauce:50 - setting  pincode 
+2023-03-30 23:40:22,493  INFO [main] newSauce:53 - continies  
+2023-03-30 23:45:49,792  INFO [main] newSauce:17 - opened home page 
+2023-03-30 23:45:56,339  INFO [main] newSauce:21 - setting  username 
+2023-03-30 23:45:56,755  INFO [main] newSauce:24 - setting  password 
+2023-03-30 23:45:57,740  INFO [main] newSauce:26 - clicking button  
+2023-03-30 23:45:59,901  INFO [main] newSauce:35 - Addtocartclick  
+2023-03-30 23:46:01,136  INFO [main] newSauce:41 - checkout  
+2023-03-30 23:46:02,089  INFO [main] newSauce:44 - setting  username 
+2023-03-30 23:46:02,372  INFO [main] newSauce:47 - setting  lastname 
+2023-03-30 23:46:02,438  INFO [main] newSauce:50 - setting  pincode 
+2023-03-30 23:46:06,453  INFO [main] newSauce:53 - continies  
+2023-03-30 23:49:24,691  INFO [main] newSauce:18 - opened home page 
+2023-03-30 23:49:29,501  INFO [main] newSauce:22 - setting  username 
+2023-03-30 23:49:29,999  INFO [main] newSauce:25 - setting  password 
+2023-03-30 23:49:30,849  INFO [main] newSauce:27 - clicking button  
+2023-03-30 23:49:32,968  INFO [main] newSauce:36 - Addtocartclick  
+2023-03-30 23:49:33,073  INFO [main] newSauce:42 - checkout  
+2023-03-30 23:49:33,179  INFO [main] newSauce:45 - setting  username 
+2023-03-30 23:49:33,328  INFO [main] newSauce:48 - setting  lastname 
+2023-03-30 23:49:33,399  INFO [main] newSauce:51 - setting  pincode 
+2023-03-30 23:49:36,702  INFO [main] newSauce:54 - continies  
+2023-03-30 23:51:11,793  INFO [main] newSauce:18 - opened home page 
+2023-03-30 23:51:15,049  INFO [main] newSauce:22 - setting  username 
+2023-03-30 23:51:15,152  INFO [main] newSauce:25 - setting  password 
+2023-03-30 23:51:15,311  INFO [main] newSauce:27 - clicking button  
+2023-03-30 23:51:17,406  INFO [main] newSauce:36 - Addtocartclick  
+2023-03-30 23:51:17,513  INFO [main] newSauce:42 - checkout  
+2023-03-30 23:51:17,620  INFO [main] newSauce:45 - setting  username 
+2023-03-30 23:51:17,739  INFO [main] newSauce:48 - setting  lastname 
+2023-03-30 23:51:59,706  INFO [main] newSauce:18 - opened home page 
+2023-03-30 23:52:02,900  INFO [main] newSauce:22 - setting  username 
+2023-03-30 23:52:02,999  INFO [main] newSauce:25 - setting  password 
+2023-03-30 23:52:03,149  INFO [main] newSauce:27 - clicking button  
+2023-03-30 23:52:05,253  INFO [main] newSauce:36 - Addtocartclick  
+2023-03-30 23:52:05,376  INFO [main] newSauce:42 - checkout  
+2023-03-30 23:52:05,750  INFO [main] newSauce:45 - setting  username 
+2023-03-30 23:52:05,899  INFO [main] newSauce:48 - setting  lastname 
+2023-03-30 23:52:06,023  INFO [main] newSauce:51 - setting  pincode 
+2023-03-30 23:52:09,117  INFO [main] newSauce:54 - continies  
+2023-03-30 23:52:09,448  INFO [main] newSauce:58 - finish  
+2023-03-30 23:52:09,540  INFO [main] newSauce:61 - Backtohome  
+2023-03-30 23:56:47,791  INFO [main] newSauce:34 - opened home page 
+2023-03-30 23:56:49,071  INFO [main] newSauce:38 - setting  username 
+2023-03-30 23:56:49,223  INFO [main] newSauce:41 - setting  password 
+2023-03-30 23:56:50,067  INFO [main] newSauce:45 - clicking button  
+2023-03-30 23:56:50,142  INFO [main] newSauce:48 - clicking button  
+2023-03-30 23:56:51,170  INFO [main] newSauce:34 - opened home page 
+2023-03-30 23:56:52,782  INFO [main] newSauce:38 - setting  username 
+2023-03-30 23:56:52,876  INFO [main] newSauce:41 - setting  password 
+2023-03-30 23:56:53,098  INFO [main] newSauce:45 - clicking button  
+2023-03-30 23:56:53,391  INFO [main] newSauce:34 - opened home page 
+2023-03-30 23:56:53,540  INFO [main] newSauce:38 - setting  username 
+2023-03-30 23:56:53,681  INFO [main] newSauce:41 - setting  password 
+2023-03-30 23:56:53,802  INFO [main] newSauce:45 - clicking button  
+2023-03-30 23:56:53,875  INFO [main] newSauce:48 - clicking button  
+2023-03-30 23:56:54,059  INFO [main] newSauce:34 - opened home page 
+2023-03-30 23:56:54,227  INFO [main] newSauce:38 - setting  username 
+2023-03-30 23:56:54,339  INFO [main] newSauce:41 - setting  password 
+2023-03-30 23:56:59,451  INFO [main] newSauce:45 - clicking button  
+2023-03-30 23:56:59,545  INFO [main] newSauce:48 - clicking button  
+2023-03-31 00:01:12,656  INFO [main] newSauce:34 - opened home page 
+2023-03-31 00:01:12,873  INFO [main] newSauce:38 - setting  username 
+2023-03-31 00:01:12,983  INFO [main] newSauce:41 - setting  password 
+2023-03-31 00:01:13,151  INFO [main] newSauce:45 - clicking button  
+2023-03-31 00:01:13,696  INFO [main] newSauce:34 - opened home page 
+2023-03-31 00:01:13,921  INFO [main] newSauce:38 - setting  username 
+2023-03-31 00:01:14,059  INFO [main] newSauce:41 - setting  password 
+2023-03-31 00:01:14,136  INFO [main] newSauce:45 - clicking button  
+2023-03-31 00:01:14,967  INFO [main] newSauce:34 - opened home page 
+2023-03-31 00:01:15,106  INFO [main] newSauce:38 - setting  username 
+2023-03-31 00:01:15,234  INFO [main] newSauce:41 - setting  password 
+2023-03-31 00:01:15,673  INFO [main] newSauce:45 - clicking button  
+2023-03-31 00:01:15,737  INFO [main] newSauce:48 - clicking button  
+2023-03-31 00:01:15,924  INFO [main] newSauce:34 - opened home page 
+2023-03-31 00:01:16,089  INFO [main] newSauce:38 - setting  username 
+2023-03-31 00:01:16,691  INFO [main] newSauce:41 - setting  password 
+2023-03-31 00:01:21,806  INFO [main] newSauce:45 - clicking button  
+2023-03-31 00:01:21,886  INFO [main] newSauce:48 - clicking button  
+2023-03-31 00:05:06,156  INFO [main] newSauce:34 - opened home page 
+2023-03-31 00:05:06,309  INFO [main] newSauce:38 - setting  username 
+2023-03-31 00:05:06,420  INFO [main] newSauce:41 - setting  password 
+2023-03-31 00:05:06,542  INFO [main] newSauce:45 - clicking button  
+2023-03-31 00:05:06,610  INFO [main] newSauce:48 - clicking button  
+2023-03-31 00:05:06,842  INFO [main] newSauce:34 - opened home page 
+2023-03-31 00:05:08,573  INFO [main] newSauce:38 - setting  username 
+2023-03-31 00:05:08,686  INFO [main] newSauce:41 - setting  password 
+2023-03-31 00:05:08,760  INFO [main] newSauce:45 - clicking button  
+2023-03-31 00:05:09,155  INFO [main] newSauce:34 - opened home page 
+2023-03-31 00:05:09,246  INFO [main] newSauce:38 - setting  username 
+2023-03-31 00:05:09,332  INFO [main] newSauce:41 - setting  password 
+2023-03-31 00:05:09,420  INFO [main] newSauce:45 - clicking button  
+2023-03-31 00:05:09,489  INFO [main] newSauce:48 - clicking button  
+2023-03-31 00:05:09,671  INFO [main] newSauce:34 - opened home page 
+2023-03-31 00:05:09,976  INFO [main] newSauce:38 - setting  username 
+2023-03-31 00:05:10,073  INFO [main] newSauce:41 - setting  password 
+2023-03-31 00:05:15,179  INFO [main] newSauce:45 - clicking button  
+2023-03-31 00:05:15,253  INFO [main] newSauce:48 - clicking button  
+2023-03-31 00:05:58,460  INFO [main] newSauce:34 - opened home page 
+2023-03-31 00:05:58,615  INFO [main] newSauce:38 - setting  username 
+2023-03-31 00:05:58,706  INFO [main] newSauce:41 - setting  password 
+2023-03-31 00:05:58,821  INFO [main] newSauce:45 - clicking button  
+2023-03-31 00:05:58,899  INFO [main] newSauce:48 - clicking button  
+2023-03-31 00:05:59,243  INFO [main] newSauce:34 - opened home page 
+2023-03-31 00:05:59,808  INFO [main] newSauce:38 - setting  username 
+2023-03-31 00:05:59,897  INFO [main] newSauce:41 - setting  password 
+2023-03-31 00:05:59,981  INFO [main] newSauce:45 - clicking button  
+2023-03-31 00:06:00,488  INFO [main] newSauce:34 - opened home page 
+2023-03-31 00:06:00,622  INFO [main] newSauce:38 - setting  username 
+2023-03-31 00:06:00,716  INFO [main] newSauce:41 - setting  password 
+2023-03-31 00:06:00,812  INFO [main] newSauce:45 - clicking button  
+2023-03-31 00:06:00,879  INFO [main] newSauce:48 - clicking button  
+2023-03-31 00:06:00,996  INFO [main] newSauce:34 - opened home page 
+2023-03-31 00:06:01,259  INFO [main] newSauce:38 - setting  username 
+2023-03-31 00:06:01,363  INFO [main] newSauce:41 - setting  password 
+2023-03-31 00:06:06,465  INFO [main] newSauce:45 - clicking button  
+2023-03-31 00:06:06,529  INFO [main] newSauce:48 - clicking button  
+2023-03-31 00:18:49,788  INFO [main] newSauce:39 - opened home page 
+2023-03-31 00:18:50,733  INFO [main] newSauce:43 - setting  username 
+2023-03-31 00:18:50,887  INFO [main] newSauce:46 - setting  password 
+2023-03-31 00:18:52,018  INFO [main] newSauce:48 - clicking button  
+2023-03-31 00:18:52,023  INFO [main] newSauce:55 - productpage  
+2023-03-31 00:18:52,762  INFO [main] newSauce:39 - opened home page 
+2023-03-31 00:18:53,103  INFO [main] newSauce:43 - setting  username 
+2023-03-31 00:18:53,199  INFO [main] newSauce:46 - setting  password 
+2023-03-31 00:18:53,291  INFO [main] newSauce:48 - clicking button  
+2023-03-31 00:18:53,292  INFO [main] newSauce:55 - productpage  
+2023-03-31 00:18:53,470  INFO [main] newSauce:39 - opened home page 
+2023-03-31 00:18:53,601  INFO [main] newSauce:43 - setting  username 
+2023-03-31 00:18:53,701  INFO [main] newSauce:46 - setting  password 
+2023-03-31 00:18:53,810  INFO [main] newSauce:48 - clicking button  
+2023-03-31 00:18:53,811  INFO [main] newSauce:55 - productpage  
+2023-03-31 00:18:53,914  INFO [main] newSauce:39 - opened home page 
+2023-03-31 00:18:54,095  INFO [main] newSauce:43 - setting  username 
+2023-03-31 00:18:54,209  INFO [main] newSauce:46 - setting  password 
+2023-03-31 00:18:59,302  INFO [main] newSauce:48 - clicking button  
+2023-03-31 00:18:59,303  INFO [main] newSauce:55 - productpage  
+2023-03-31 00:24:23,219  INFO [main] newSauce:21 - opened home page 
+2023-03-31 00:24:24,550  INFO [main] newSauce:25 - setting  username 
+2023-03-31 00:24:24,774  INFO [main] newSauce:28 - setting  password 
+2023-03-31 00:24:25,304  INFO [main] newSauce:30 - clicking button  
+2023-03-31 00:24:25,519  INFO [main] newSauce:35 - Findproduct1  
+2023-03-31 00:24:30,653  INFO [main] newSauce:38 - cartlist  
+2023-03-31 00:24:35,875  INFO [main] newSauce:41 - checkout1  
+2023-03-31 00:24:36,171  INFO [main] newSauce:61 - opened home page 
+2023-03-31 00:24:36,485  INFO [main] newSauce:65 - setting  username 
+2023-03-31 00:24:36,631  INFO [main] newSauce:68 - setting  password 
+2023-03-31 00:24:36,754  INFO [main] newSauce:70 - clicking button  
+2023-03-31 00:24:36,829  INFO [main] newSauce:75 - Findproduct1  
+2023-03-31 00:25:25,404  INFO [main] newSauce:21 - opened home page 
+2023-03-31 00:25:25,915  INFO [main] newSauce:25 - setting  username 
+2023-03-31 00:25:26,033  INFO [main] newSauce:28 - setting  password 
+2023-03-31 00:25:26,145  INFO [main] newSauce:30 - clicking button  
+2023-03-31 00:25:26,498  INFO [main] newSauce:35 - Findproduct1  
+2023-03-31 00:25:31,597  INFO [main] newSauce:38 - cartlist  
+2023-03-31 00:25:36,782  INFO [main] newSauce:41 - checkout1  
+2023-03-31 00:25:37,164  INFO [main] newSauce:61 - opened home page 
+2023-03-31 00:25:37,266  INFO [main] newSauce:65 - setting  username 
+2023-03-31 00:25:37,364  INFO [main] newSauce:68 - setting  password 
+2023-03-31 00:25:37,524  INFO [main] newSauce:70 - clicking button  
+2023-03-31 00:25:37,601  INFO [main] newSauce:75 - Findproduct1  
+2023-03-31 00:25:42,731  INFO [main] newSauce:78 - cartlist  
+2023-03-31 00:25:47,908  INFO [main] newSauce:81 - checkout1  
+2023-03-31 00:27:31,556  INFO [main] newSauce:21 - opened home page 
+2023-03-31 00:27:31,901  INFO [main] newSauce:25 - setting  username 
+2023-03-31 00:27:32,036  INFO [main] newSauce:28 - setting  password 
+2023-03-31 00:27:32,187  INFO [main] newSauce:30 - clicking button  
+2023-03-31 00:27:34,491  INFO [main] newSauce:61 - opened home page 
+2023-03-31 00:27:34,744  INFO [main] newSauce:65 - setting  username 
+2023-03-31 00:27:34,889  INFO [main] newSauce:68 - setting  password 
+2023-03-31 00:27:35,026  INFO [main] newSauce:70 - clicking button  
+2023-03-31 00:27:35,119  INFO [main] newSauce:75 - Findproduct1  
+2023-03-31 00:27:40,206  INFO [main] newSauce:78 - cartlist  
+2023-03-31 00:27:45,336  INFO [main] newSauce:81 - checkout1  
+2023-03-31 00:29:13,101  INFO [main] newSauce:21 - opened home page 
+2023-03-31 00:29:13,283  INFO [main] newSauce:25 - setting  username 
+2023-03-31 00:29:13,397  INFO [main] newSauce:28 - setting  password 
+2023-03-31 00:29:13,536  INFO [main] newSauce:30 - clicking button  
+2023-03-31 00:29:14,572  INFO [main] newSauce:35 - Findproduct  
+2023-03-31 00:29:20,893  INFO [main] newSauce:61 - opened home page 
+2023-03-31 00:29:21,006  INFO [main] newSauce:65 - setting  username 
+2023-03-31 00:29:21,106  INFO [main] newSauce:68 - setting  password 
+2023-03-31 00:29:21,249  INFO [main] newSauce:70 - clicking button  
+2023-03-31 00:29:21,337  INFO [main] newSauce:75 - Findproduct1  
+2023-03-31 00:29:26,386  INFO [main] newSauce:78 - cartlist  
+2023-03-31 00:29:31,485  INFO [main] newSauce:81 - checkout1  
+2023-03-31 00:32:30,420  INFO [main] newSauce:21 - opened home page 
+2023-03-31 00:32:30,806  INFO [main] newSauce:25 - setting  username 
+2023-03-31 00:32:30,898  INFO [main] newSauce:28 - setting  password 
+2023-03-31 00:32:31,037  INFO [main] newSauce:30 - clicking button  
+2023-03-31 00:32:31,196  INFO [main] newSauce:35 - select  
+2023-03-31 00:32:36,341  INFO [main] newSauce:38 - selectproduct  
+2023-03-31 00:32:41,734  INFO [main] newSauce:64 - opened home page 
+2023-03-31 00:32:41,858  INFO [main] newSauce:68 - setting  username 
+2023-03-31 00:32:41,953  INFO [main] newSauce:71 - setting  password 
+2023-03-31 00:32:42,074  INFO [main] newSauce:73 - clicking button  
+2023-03-31 00:32:42,145  INFO [main] newSauce:78 - Findproduct1  
+2023-03-31 00:32:47,244  INFO [main] newSauce:81 - cartlist  
+2023-03-31 00:32:52,358  INFO [main] newSauce:84 - checkout1  
+2023-03-31 00:39:24,356  INFO [main] newSauce:21 - opened home page 
+2023-03-31 00:39:24,362  INFO [main] newSauce:21 - opened home page 
+2023-03-31 00:39:28,011  INFO [main] newSauce:25 - setting  username 
+2023-03-31 00:39:28,012  INFO [main] newSauce:25 - setting  username 
+2023-03-31 00:39:28,438  INFO [main] newSauce:28 - setting  password 
+2023-03-31 00:39:28,445  INFO [main] newSauce:28 - setting  password 
+2023-03-31 00:39:29,517  INFO [main] newSauce:30 - clicking button  
+2023-03-31 00:39:29,518  INFO [main] newSauce:30 - clicking button  
+2023-03-31 00:39:31,828  INFO [main] newSauce:35 - select  
+2023-03-31 00:39:31,828  INFO [main] newSauce:35 - select  
+2023-03-31 00:39:37,038  INFO [main] newSauce:38 - selectproduct  
+2023-03-31 00:39:37,044  INFO [main] newSauce:38 - selectproduct  
+2023-03-31 00:39:42,181  INFO [main] newSauce:41 - clickadd  
+2023-03-31 00:39:42,181  INFO [main] newSauce:41 - clickadd  
+2023-03-31 00:39:49,277  INFO [main] newSauce:67 - opened home page 
+2023-03-31 00:39:49,373  INFO [main] newSauce:67 - opened home page 
+2023-03-31 00:39:49,560  INFO [main] newSauce:71 - setting  username 
+2023-03-31 00:39:49,596  INFO [main] newSauce:71 - setting  username 
+2023-03-31 00:39:49,718  INFO [main] newSauce:74 - setting  password 
+2023-03-31 00:39:49,740  INFO [main] newSauce:74 - setting  password 
+2023-03-31 00:39:49,963  INFO [main] newSauce:76 - clicking button  
+2023-03-31 00:39:49,974  INFO [main] newSauce:76 - clicking button  
+2023-03-31 00:39:50,071  INFO [main] newSauce:81 - Findproduct1  
+2023-03-31 00:39:50,138  INFO [main] newSauce:81 - Findproduct1  
+2023-03-31 00:39:55,269  INFO [main] newSauce:84 - cartlist  
+2023-03-31 00:39:55,270  INFO [main] newSauce:84 - cartlist  
+2023-03-31 00:40:00,427  INFO [main] newSauce:87 - checkout1  
+2023-03-31 00:40:02,213  INFO [main] newSauce:87 - checkout1  
+2023-03-31 00:48:32,778  INFO [main] newSauce:21 - opened home page 
+2023-03-31 00:48:33,038  INFO [main] newSauce:25 - setting  username 
+2023-03-31 00:48:33,142  INFO [main] newSauce:28 - setting  password 
+2023-03-31 00:48:33,362  INFO [main] newSauce:30 - clicking button  
+2023-03-31 00:48:33,551  INFO [main] newSauce:35 - select  
+2023-03-31 00:48:38,788  INFO [main] newSauce:38 - selectproduct  
+2023-03-31 00:48:43,859  INFO [main] newSauce:41 - clickadd  
+2023-03-31 00:48:49,059  INFO [main] newSauce:67 - opened home page 
+2023-03-31 00:48:49,173  INFO [main] newSauce:71 - setting  username 
+2023-03-31 00:48:49,278  INFO [main] newSauce:74 - setting  password 
+2023-03-31 00:48:49,389  INFO [main] newSauce:76 - clicking button  
+2023-03-31 00:48:49,489  INFO [main] newSauce:81 - Findproduct1  
+2023-03-31 00:48:54,619  INFO [main] newSauce:84 - cartlist  
+2023-03-31 00:48:59,834  INFO [main] newSauce:87 - checkout1  
+2023-03-31 00:52:51,712  INFO [main] newSauce:21 - opened home page 
+2023-03-31 00:52:51,899  INFO [main] newSauce:25 - setting  username 
+2023-03-31 00:52:52,019  INFO [main] newSauce:28 - setting  password 
+2023-03-31 00:52:52,135  INFO [main] newSauce:30 - clicking button  
+2023-03-31 00:52:52,339  INFO [main] newSauce:35 - select  
+2023-03-31 00:52:57,583  INFO [main] newSauce:38 - selectproduct  
+2023-03-31 00:53:02,737  INFO [main] newSauce:41 - clickadd  
+2023-03-31 00:53:08,033  INFO [main] newSauce:67 - opened home page 
+2023-03-31 00:53:08,141  INFO [main] newSauce:71 - setting  username 
+2023-03-31 00:53:08,241  INFO [main] newSauce:74 - setting  password 
+2023-03-31 00:53:08,354  INFO [main] newSauce:76 - clicking button  
+2023-03-31 00:53:08,519  INFO [main] newSauce:81 - Findproduct1  
+2023-03-31 00:53:13,637  INFO [main] newSauce:84 - cartlist  
+2023-03-31 00:53:18,792  INFO [main] newSauce:87 - checkout1  
+2023-03-31 00:57:47,439  INFO [main] newSauce:21 - opened home page 
+2023-03-31 00:57:47,891  INFO [main] newSauce:25 - setting  username 
+2023-03-31 00:57:48,075  INFO [main] newSauce:28 - setting  password 
+2023-03-31 00:57:48,858  INFO [main] newSauce:30 - clicking button  
+2023-03-31 00:57:49,111  INFO [main] newSauce:35 - select  
+2023-03-31 00:57:54,344  INFO [main] newSauce:38 - selectproduct  
+2023-03-31 00:57:59,529  INFO [main] newSauce:41 - clickadd  
+2023-03-31 00:58:04,786  INFO [main] newSauce:67 - opened home page 
+2023-03-31 00:58:04,887  INFO [main] newSauce:71 - setting  username 
+2023-03-31 00:58:04,990  INFO [main] newSauce:74 - setting  password 
+2023-03-31 00:58:05,123  INFO [main] newSauce:76 - clicking button  
+2023-03-31 00:58:05,207  INFO [main] newSauce:81 - Findproduct1  
+2023-03-31 00:58:10,360  INFO [main] newSauce:84 - cartlist  
+2023-03-31 00:58:15,560  INFO [main] newSauce:87 - checkout1  
+2023-03-31 01:03:36,544  INFO [main] newSauce:22 - opened home page 
+2023-03-31 01:03:36,772  INFO [main] newSauce:26 - setting  username 
+2023-03-31 01:03:36,885  INFO [main] newSauce:29 - setting  password 
+2023-03-31 01:03:37,020  INFO [main] newSauce:31 - clicking button  
+2023-03-31 01:03:37,213  INFO [main] newSauce:36 - select  
+2023-03-31 01:03:42,447  INFO [main] newSauce:39 - selectproduct  
+2023-03-31 01:03:47,593  INFO [main] newSauce:42 - clickadd  
+2023-03-31 01:03:53,432  INFO [main] newSauce:75 - opened home page 
+2023-03-31 01:03:53,553  INFO [main] newSauce:79 - setting  username 
+2023-03-31 01:03:53,666  INFO [main] newSauce:82 - setting  password 
+2023-03-31 01:03:53,810  INFO [main] newSauce:84 - clicking button  
+2023-03-31 01:03:53,900  INFO [main] newSauce:89 - Findproduct1  
+2023-03-31 01:03:58,976  INFO [main] newSauce:92 - cartlist  
+2023-03-31 01:04:04,181  INFO [main] newSauce:95 - checkout1  
+2023-03-31 01:06:09,982  INFO [main] newSauce:22 - opened home page 
+2023-03-31 01:06:10,266  INFO [main] newSauce:26 - setting  username 
+2023-03-31 01:06:10,408  INFO [main] newSauce:29 - setting  password 
+2023-03-31 01:06:10,531  INFO [main] newSauce:31 - clicking button  
+2023-03-31 01:06:10,856  INFO [main] newSauce:36 - select  
+2023-03-31 01:06:16,103  INFO [main] newSauce:39 - selectproduct  
+2023-03-31 01:06:21,278  INFO [main] newSauce:42 - clickadd  
+2023-03-31 01:06:27,322  INFO [main] newSauce:75 - opened home page 
+2023-03-31 01:06:27,423  INFO [main] newSauce:79 - setting  username 
+2023-03-31 01:06:27,519  INFO [main] newSauce:82 - setting  password 
+2023-03-31 01:06:27,649  INFO [main] newSauce:84 - clicking button  
+2023-03-31 01:06:27,721  INFO [main] newSauce:89 - Findproduct1  
+2023-03-31 01:06:32,785  INFO [main] newSauce:92 - cartlist  
+2023-03-31 01:06:38,083  INFO [main] newSauce:95 - checkout1  
+2023-03-31 16:15:58,802  INFO [main] newSauce:34 - opened home page 
+2023-03-31 16:16:03,716  INFO [main] newSauce:38 - setting  username 
+2023-03-31 16:16:04,837  INFO [main] newSauce:41 - setting  password 
+2023-03-31 16:16:08,881  INFO [main] newSauce:45 - clicking button  
+2023-03-31 16:16:09,134  INFO [main] newSauce:48 - clicking button  
+2023-03-31 16:16:10,101  INFO [main] newSauce:34 - opened home page 
+2023-03-31 16:16:15,483  INFO [main] newSauce:38 - setting  username 
+2023-03-31 16:16:15,979  INFO [main] newSauce:41 - setting  password 
+2023-03-31 16:16:16,758  INFO [main] newSauce:45 - clicking button  
+2023-03-31 16:16:17,242  INFO [main] newSauce:34 - opened home page 
+2023-03-31 16:16:17,407  INFO [main] newSauce:38 - setting  username 
+2023-03-31 16:16:17,528  INFO [main] newSauce:41 - setting  password 
+2023-03-31 16:16:17,717  INFO [main] newSauce:45 - clicking button  
+2023-03-31 16:16:18,541  INFO [main] newSauce:48 - clicking button  
+2023-03-31 16:16:18,976  INFO [main] newSauce:34 - opened home page 
+2023-03-31 16:16:22,220  INFO [main] newSauce:38 - setting  username 
+2023-03-31 16:16:22,348  INFO [main] newSauce:41 - setting  password 
+2023-03-31 16:16:27,430  INFO [main] newSauce:45 - clicking button  
+2023-03-31 16:16:28,016  INFO [main] newSauce:48 - clicking button  
+2023-03-31 16:16:38,185  INFO [main] newSauce:50 - clicking button  
+2023-03-31 16:22:05,828  INFO [main] newSauce:34 - opened home page 
+2023-03-31 16:22:07,863  INFO [main] newSauce:38 - setting  username 
+2023-03-31 16:22:08,013  INFO [main] newSauce:41 - setting  password 
+2023-03-31 16:22:08,670  INFO [main] newSauce:45 - clicking button  
+2023-03-31 16:22:08,788  INFO [main] newSauce:48 - clicking button  
+2023-03-31 16:22:09,488  INFO [main] newSauce:34 - opened home page 
+2023-03-31 16:22:10,883  INFO [main] newSauce:38 - setting  username 
+2023-03-31 16:22:10,976  INFO [main] newSauce:41 - setting  password 
+2023-03-31 16:22:11,311  INFO [main] newSauce:45 - clicking button  
+2023-03-31 16:22:11,650  INFO [main] newSauce:34 - opened home page 
+2023-03-31 16:22:11,788  INFO [main] newSauce:38 - setting  username 
+2023-03-31 16:22:11,923  INFO [main] newSauce:41 - setting  password 
+2023-03-31 16:22:12,021  INFO [main] newSauce:45 - clicking button  
+2023-03-31 16:22:12,103  INFO [main] newSauce:48 - clicking button  
+2023-03-31 16:22:12,328  INFO [main] newSauce:34 - opened home page 
+2023-03-31 16:22:12,513  INFO [main] newSauce:38 - setting  username 
+2023-03-31 16:22:12,628  INFO [main] newSauce:41 - setting  password 
+2023-03-31 16:22:17,712  INFO [main] newSauce:45 - clicking button  
+2023-03-31 16:22:17,797  INFO [main] newSauce:48 - clicking button  
+2023-03-31 16:25:03,761  INFO [main] newSauce:34 - opened home page 
+2023-03-31 16:25:09,364  INFO [main] newSauce:38 - setting  username 
+2023-03-31 16:25:10,079  INFO [main] newSauce:41 - setting  password 
+2023-03-31 16:25:12,324  INFO [main] newSauce:45 - clicking button  
+2023-03-31 16:25:12,521  INFO [main] newSauce:48 - clicking button  
+2023-03-31 16:25:17,773  INFO [main] newSauce:34 - opened home page 
+2023-03-31 16:25:19,082  INFO [main] newSauce:38 - setting  username 
+2023-03-31 16:25:19,274  INFO [main] newSauce:41 - setting  password 
+2023-03-31 16:25:19,611  INFO [main] newSauce:45 - clicking button  
+2023-03-31 16:25:20,194  INFO [main] newSauce:34 - opened home page 
+2023-03-31 16:25:20,489  INFO [main] newSauce:38 - setting  username 
+2023-03-31 16:25:20,713  INFO [main] newSauce:41 - setting  password 
+2023-03-31 16:25:21,026  INFO [main] newSauce:45 - clicking button  
+2023-03-31 16:25:21,523  INFO [main] newSauce:48 - clicking button  
+2023-03-31 16:25:37,734  INFO [main] newSauce:51 - clicking button  
+2023-03-31 16:26:15,797  INFO [main] newSauce:34 - opened home page 
+2023-03-31 16:26:17,092  INFO [main] newSauce:38 - setting  username 
+2023-03-31 16:26:17,294  INFO [main] newSauce:41 - setting  password 
+2023-03-31 16:26:22,632  INFO [main] newSauce:45 - clicking button  
+2023-03-31 16:26:22,774  INFO [main] newSauce:48 - clicking button  
+2023-03-31 16:26:46,647  INFO [main] newSauce:51 - clicking button  
+2023-03-31 16:29:21,954  INFO [main] newSauce:34 - opened home page 
+2023-03-31 16:29:31,820  INFO [main] newSauce:38 - setting  username 
+2023-03-31 16:29:32,784  INFO [main] newSauce:41 - setting  password 
+2023-03-31 16:29:35,203  INFO [main] newSauce:45 - clicking button  
+2023-03-31 16:29:35,418  INFO [main] newSauce:54 - clicking button  
+2023-03-31 16:30:00,880  INFO [main] newSauce:57 - clicking button  
+2023-03-31 16:30:16,675  INFO [main] newSauce:34 - opened home page 
+2023-03-31 16:30:16,941  INFO [main] newSauce:38 - setting  username 
+2023-03-31 16:30:17,177  INFO [main] newSauce:41 - setting  password 
+2023-03-31 16:30:17,298  INFO [main] newSauce:45 - clicking button  
+2023-03-31 16:30:17,299  INFO [main] newSauce:66 - this is 	locked_out_user which is  not able to login 
+2023-03-31 16:30:18,180  INFO [main] newSauce:34 - opened home page 
+2023-03-31 16:30:18,363  INFO [main] newSauce:38 - setting  username 
+2023-03-31 16:30:18,546  INFO [main] newSauce:41 - setting  password 
+2023-03-31 16:30:19,444  INFO [main] newSauce:45 - clicking button  
+2023-03-31 16:30:19,570  INFO [main] newSauce:54 - clicking button  
+2023-03-31 16:30:38,916  INFO [main] newSauce:57 - clicking button  
+2023-03-31 16:30:41,703  INFO [main] newSauce:34 - opened home page 
+2023-03-31 16:30:42,902  INFO [main] newSauce:38 - setting  username 
+2023-03-31 16:30:43,105  INFO [main] newSauce:41 - setting  password 
+2023-03-31 16:30:48,268  INFO [main] newSauce:45 - clicking button  
+2023-03-31 16:30:48,341  INFO [main] newSauce:54 - clicking button  
+2023-03-31 16:31:28,508  INFO [main] newSauce:57 - clicking button  
+2023-03-31 16:38:56,298  INFO [main] newSauce:22 - opened home page 
+2023-03-31 16:38:56,561  INFO [main] newSauce:26 - setting  username 
+2023-03-31 16:38:56,685  INFO [main] newSauce:29 - setting  password 
+2023-03-31 16:38:56,837  INFO [main] newSauce:31 - clicking button  
+2023-03-31 16:38:57,583  INFO [main] newSauce:39 - select  
+2023-03-31 16:39:02,714  INFO [main] newSauce:42 - selectproduct  
+2023-03-31 16:39:07,831  INFO [main] newSauce:45 - product added to clickadd  
+2023-03-31 16:39:13,230  INFO [main] newSauce:78 - opened home page 
+2023-03-31 16:39:13,364  INFO [main] newSauce:82 - setting  username 
+2023-03-31 16:39:13,558  INFO [main] newSauce:85 - setting  password 
+2023-03-31 16:39:13,692  INFO [main] newSauce:87 - clicking button  
+2023-03-31 16:39:13,783  INFO [main] newSauce:92 - Findproduct1  
+2023-03-31 16:39:18,906  INFO [main] newSauce:95 - cartlist  
+2023-03-31 16:39:24,251  INFO [main] newSauce:98 - checkout1  
+2023-03-31 16:46:39,959  INFO [main] newSauce:22 - opened home page 
+2023-03-31 16:46:42,306  INFO [main] newSauce:26 - setting  username 
+2023-03-31 16:46:42,814  INFO [main] newSauce:29 - setting  password 
+2023-03-31 16:46:43,556  INFO [main] newSauce:31 - clicking button  
+2023-03-31 16:46:44,494  INFO [main] newSauce:39 - select  
+2023-03-31 16:46:54,577  INFO [main] newSauce:45 - product added to clickadd  
+2023-03-31 16:47:00,510  INFO [main] newSauce:78 - opened home page 
+2023-03-31 16:47:00,891  INFO [main] newSauce:82 - setting  username 
+2023-03-31 16:47:01,036  INFO [main] newSauce:85 - setting  password 
+2023-03-31 16:47:01,144  INFO [main] newSauce:87 - clicking button  
+2023-03-31 16:47:01,281  INFO [main] newSauce:92 - Findproduct1  
+2023-03-31 16:47:06,397  INFO [main] newSauce:95 - cartlist  
+2023-03-31 16:47:11,626  INFO [main] newSauce:98 - checkout1  
+2023-03-31 16:51:32,855  INFO [main] newSauce:22 - opened home page 
+2023-03-31 16:51:34,141  INFO [main] newSauce:26 - setting  username 
+2023-03-31 16:51:34,371  INFO [main] newSauce:29 - setting  password 
+2023-03-31 16:51:34,748  INFO [main] newSauce:31 - clicking button  
+2023-03-31 16:51:35,260  INFO [main] newSauce:39 - select  
+2023-03-31 16:51:45,396  INFO [main] newSauce:45 - product added to clickadd  
+2023-03-31 16:52:55,717  INFO [main] newSauce:22 - opened home page 
+2023-03-31 16:52:56,292  INFO [main] newSauce:26 - setting  username 
+2023-03-31 16:52:56,576  INFO [main] newSauce:29 - setting  password 
+2023-03-31 16:52:56,878  INFO [main] newSauce:31 - clicking button  
+2023-03-31 16:52:57,514  INFO [main] newSauce:39 - select  
+2023-03-31 16:53:07,745  INFO [main] newSauce:45 - product added to clickadd  
+2023-03-31 17:02:18,767  INFO [main] newSauce:22 - opened home page 
+2023-03-31 17:02:19,007  INFO [main] newSauce:26 - setting  username 
+2023-03-31 17:02:19,112  INFO [main] newSauce:29 - setting  password 
+2023-03-31 17:02:19,238  INFO [main] newSauce:31 - clicking button  
+2023-03-31 17:02:19,569  INFO [main] newSauce:39 - select  
+2023-03-31 17:02:29,829  INFO [main] newSauce:45 - product added to clickadd  
+2023-03-31 17:03:35,632  INFO [main] newSauce:22 - opened home page 
+2023-03-31 17:03:35,896  INFO [main] newSauce:26 - setting  username 
+2023-03-31 17:03:36,023  INFO [main] newSauce:29 - setting  password 
+2023-03-31 17:03:36,185  INFO [main] newSauce:31 - clicking button  
+2023-03-31 17:03:36,404  INFO [main] newSauce:39 - select  
+2023-03-31 17:03:46,496  INFO [main] newSauce:45 - product added to clickadd  
+2023-03-31 17:03:51,781  INFO [main] newSauce:78 - opened home page 
+2023-03-31 17:03:51,941  INFO [main] newSauce:82 - setting  username 
+2023-03-31 17:03:52,042  INFO [main] newSauce:85 - setting  password 
+2023-03-31 17:03:52,173  INFO [main] newSauce:87 - clicking button  
+2023-03-31 17:03:52,245  INFO [main] newSauce:92 - Findproduct1  
+2023-03-31 17:03:57,359  INFO [main] newSauce:95 - cartlist  
+2023-03-31 17:04:02,555  INFO [main] newSauce:98 - checkout1  
+2023-03-31 17:06:24,395  INFO [main] newSauce:22 - opened home page 
+2023-03-31 17:06:24,797  INFO [main] newSauce:26 - setting  username 
+2023-03-31 17:06:25,192  INFO [main] newSauce:29 - setting  password 
+2023-03-31 17:06:25,500  INFO [main] newSauce:31 - clicking button  
+2023-03-31 17:06:25,668  INFO [main] newSauce:39 - select  
+2023-03-31 17:06:35,833  INFO [main] newSauce:45 - product added to clickadd  
+2023-03-31 17:06:41,143  INFO [main] newSauce:78 - opened home page 
+2023-03-31 17:06:41,270  INFO [main] newSauce:82 - setting  username 
+2023-03-31 17:06:41,352  INFO [main] newSauce:85 - setting  password 
+2023-03-31 17:06:41,482  INFO [main] newSauce:87 - clicking button  
+2023-03-31 17:18:48,560  INFO [main] newSauce:22 - opened home page 
+2023-03-31 17:18:50,645  INFO [main] newSauce:26 - setting  username 
+2023-03-31 17:18:50,898  INFO [main] newSauce:29 - setting  password 
+2023-03-31 17:18:51,371  INFO [main] newSauce:31 - clicking button  
+2023-03-31 17:18:52,502  INFO [main] newSauce:39 - select  
+2023-03-31 17:19:02,663  INFO [main] newSauce:45 - product added to clickadd  
+2023-03-31 17:19:08,189  INFO [main] newSauce:78 - opened home page 
+2023-03-31 17:19:08,314  INFO [main] newSauce:82 - setting  username 
+2023-03-31 17:19:08,421  INFO [main] newSauce:85 - setting  password 
+2023-03-31 17:19:08,583  INFO [main] newSauce:87 - clicking button  
+2023-03-31 17:22:29,209  INFO [main] newSauce:22 - opened home page 
+2023-03-31 17:22:32,289  INFO [main] newSauce:26 - setting  username 
+2023-03-31 17:22:32,840  INFO [main] newSauce:29 - setting  password 
+2023-03-31 17:22:33,866  INFO [main] newSauce:31 - clicking button  
+2023-03-31 17:22:34,404  INFO [main] newSauce:39 - select  
+2023-03-31 17:22:44,738  INFO [main] newSauce:45 - product added to clickadd  
+2023-03-31 17:22:52,174  INFO [main] newSauce:78 - opened home page 
+2023-03-31 17:22:52,301  INFO [main] newSauce:82 - setting  username 
+2023-03-31 17:22:52,408  INFO [main] newSauce:85 - setting  password 
+2023-03-31 17:22:52,897  INFO [main] newSauce:87 - clicking button  
+2023-03-31 17:22:53,022  INFO [main] newSauce:92 - Findproduct1  
+2023-03-31 17:22:58,313  INFO [main] newSauce:95 - cartlist  
+2023-03-31 17:23:03,622  INFO [main] newSauce:98 - checkout1  
+2023-03-31 17:26:46,669  INFO [main] newSauce:22 - opened home page 
+2023-03-31 17:26:47,858  INFO [main] newSauce:26 - setting  username 
+2023-03-31 17:26:48,046  INFO [main] newSauce:29 - setting  password 
+2023-03-31 17:26:48,588  INFO [main] newSauce:31 - clicking button  
+2023-03-31 17:26:48,859  INFO [main] newSauce:39 - select  
+2023-03-31 17:26:59,028  INFO [main] newSauce:45 - product added to clickadd  
+2023-03-31 17:27:04,786  INFO [main] newSauce:82 - opened home page 
+2023-03-31 17:27:04,905  INFO [main] newSauce:86 - setting  username 
+2023-03-31 17:27:05,033  INFO [main] newSauce:89 - setting  password 
+2023-03-31 17:27:05,163  INFO [main] newSauce:91 - clicking button  
+2023-03-31 17:27:05,251  INFO [main] newSauce:96 - Findproduct1  
+2023-03-31 17:27:10,361  INFO [main] newSauce:99 - cartlist  
+2023-03-31 17:27:15,648  INFO [main] newSauce:102 - checkout1  
+2023-03-31 17:28:07,403  INFO [main] newSauce:22 - opened home page 
+2023-03-31 17:28:07,705  INFO [main] newSauce:26 - setting  username 
+2023-03-31 17:28:07,815  INFO [main] newSauce:29 - setting  password 
+2023-03-31 17:28:07,956  INFO [main] newSauce:31 - clicking button  
+2023-03-31 17:28:08,144  INFO [main] newSauce:39 - select  
+2023-03-31 17:28:18,300  INFO [main] newSauce:45 - product added to clickadd  
+2023-03-31 17:28:23,687  INFO [main] newSauce:79 - opened home page 
+2023-03-31 17:28:23,799  INFO [main] newSauce:83 - setting  username 
+2023-03-31 17:28:23,897  INFO [main] newSauce:86 - setting  password 
+2023-03-31 17:28:24,028  INFO [main] newSauce:88 - clicking button  
+2023-03-31 17:28:24,112  INFO [main] newSauce:93 - Findproduct1  
+2023-03-31 17:28:29,286  INFO [main] newSauce:96 - cartlist  
+2023-03-31 17:28:34,600  INFO [main] newSauce:99 - checkout1  
+2023-03-31 17:31:23,922  INFO [main] newSauce:22 - opened home page 
+2023-03-31 17:31:24,239  INFO [main] newSauce:26 - setting  username 
+2023-03-31 17:31:24,352  INFO [main] newSauce:29 - setting  password 
+2023-03-31 17:31:24,478  INFO [main] newSauce:31 - clicking button  
+2023-03-31 17:31:24,696  INFO [main] newSauce:39 - select  
+2023-03-31 17:31:34,845  INFO [main] newSauce:45 - product added to clickadd  
+2023-03-31 17:31:40,223  INFO [main] newSauce:83 - opened home page 
+2023-03-31 17:31:40,341  INFO [main] newSauce:87 - setting  username 
+2023-03-31 17:31:40,436  INFO [main] newSauce:90 - setting  password 
+2023-03-31 17:31:40,556  INFO [main] newSauce:92 - clicking button  
+2023-03-31 17:31:40,638  INFO [main] newSauce:97 - Findproduct1  
+2023-03-31 17:31:46,243  INFO [main] newSauce:100 - cartlist  
+2023-03-31 17:31:51,649  INFO [main] newSauce:103 - checkout1  
+2023-03-31 17:32:53,535  INFO [main] newSauce:22 - opened home page 
+2023-03-31 17:32:53,981  INFO [main] newSauce:26 - setting  username 
+2023-03-31 17:32:54,158  INFO [main] newSauce:29 - setting  password 
+2023-03-31 17:32:54,353  INFO [main] newSauce:31 - clicking button  
+2023-03-31 17:32:54,540  INFO [main] newSauce:39 - select  
+2023-03-31 17:33:04,699  INFO [main] newSauce:45 - product added to clickadd  
+2023-03-31 17:33:09,843  INFO [main] newSauce:56 - Findproduct1  
+2023-03-31 17:33:09,920  INFO [main] newSauce:59 - cartlist  
+2023-03-31 17:33:15,024  INFO [main] newSauce:62 - checkout1  
+2023-03-31 17:33:15,305  INFO [main] newSauce:86 - opened home page 
+2023-03-31 17:33:15,423  INFO [main] newSauce:90 - setting  username 
+2023-03-31 17:33:15,527  INFO [main] newSauce:93 - setting  password 
+2023-03-31 17:33:15,651  INFO [main] newSauce:95 - clicking button  
+2023-03-31 17:33:15,742  INFO [main] newSauce:100 - Findproduct1  
+2023-03-31 17:33:20,807  INFO [main] newSauce:103 - cartlist  
+2023-03-31 17:33:25,969  INFO [main] newSauce:106 - checkout1  
+2023-03-31 17:56:32,829  INFO [main] newSauce:22 - opened home page 
+2023-03-31 17:56:34,577  INFO [main] newSauce:26 - setting  username 
+2023-03-31 17:56:34,785  INFO [main] newSauce:29 - setting  password 
+2023-03-31 17:56:35,223  INFO [main] newSauce:31 - clicking button  
+2023-03-31 17:56:37,230  INFO [main] newSauce:39 - select  
+2023-03-31 17:56:47,381  INFO [main] newSauce:45 - product added to clickadd  
+2023-03-31 17:56:52,472  INFO [main] newSauce:48 - Findproduct1  
+2023-03-31 17:56:53,379  INFO [main] newSauce:51 - cartlist  
+2023-03-31 17:56:58,557  INFO [main] newSauce:54 - checkout1  
+2023-03-31 17:56:58,802  INFO [main] newSauce:78 - opened home page 
+2023-03-31 17:56:58,932  INFO [main] newSauce:82 - setting  username 
+2023-03-31 17:56:59,051  INFO [main] newSauce:85 - setting  password 
+2023-03-31 17:56:59,189  INFO [main] newSauce:87 - clicking button  
+2023-03-31 17:56:59,465  INFO [main] newSauce:93 - remove product  
+2023-03-31 17:56:59,537  INFO [main] newSauce:96 - Findproduct1  
+2023-03-31 17:57:04,678  INFO [main] newSauce:99 - cartlist  
+2023-03-31 17:57:09,864  INFO [main] newSauce:102 - checkout1  
+2023-03-31 18:41:24,674  INFO [main] newSauce:39 - opened home page 
+2023-03-31 18:41:26,920  INFO [main] newSauce:43 - setting  username 
+2023-03-31 18:41:27,317  INFO [main] newSauce:46 - setting  password 
+2023-03-31 18:41:29,321  INFO [main] newSauce:48 - clicking button  
+2023-03-31 18:41:29,383  INFO [main] newSauce:55 - productpage  
+2023-03-31 18:41:29,849  INFO [main] newSauce:39 - opened home page 
+2023-03-31 18:41:33,197  INFO [main] newSauce:43 - setting  username 
+2023-03-31 18:41:33,758  INFO [main] newSauce:46 - setting  password 
+2023-03-31 18:41:34,344  INFO [main] newSauce:48 - clicking button  
+2023-03-31 18:41:34,346  INFO [main] newSauce:55 - productpage  
+2023-03-31 18:41:34,668  INFO [main] newSauce:39 - opened home page 
+2023-03-31 18:41:34,887  INFO [main] newSauce:43 - setting  username 
+2023-03-31 18:41:35,012  INFO [main] newSauce:46 - setting  password 
+2023-03-31 18:41:35,359  INFO [main] newSauce:48 - clicking button  
+2023-03-31 18:41:35,360  INFO [main] newSauce:55 - productpage  
+2023-03-31 18:41:35,538  INFO [main] newSauce:39 - opened home page 
+2023-03-31 18:41:35,725  INFO [main] newSauce:43 - setting  username 
+2023-03-31 18:41:35,834  INFO [main] newSauce:46 - setting  password 
+2023-03-31 18:41:40,946  INFO [main] newSauce:48 - clicking button  
+2023-03-31 18:41:40,948  INFO [main] newSauce:55 - productpage  
+2023-04-03 23:40:34,234  INFO [main] newSauce:39 - opened home page 
+2023-04-03 23:40:37,748  INFO [main] newSauce:43 - setting  username 
+2023-04-03 23:40:37,896  INFO [main] newSauce:46 - setting  password 
+2023-04-03 23:40:52,876  INFO [main] newSauce:48 - clicking button  
+2023-04-03 23:40:52,925  INFO [main] newSauce:54 - productpage  
+2023-04-03 23:40:53,669  INFO [main] newSauce:39 - opened home page 
+2023-04-03 23:40:53,910  INFO [main] newSauce:43 - setting  username 
+2023-04-03 23:40:54,002  INFO [main] newSauce:46 - setting  password 
+2023-04-03 23:40:54,385  INFO [main] newSauce:48 - clicking button  
+2023-04-03 23:40:54,395  INFO [main] newSauce:54 - productpage  
+2023-04-03 23:40:57,055  INFO [main] newSauce:39 - opened home page 
+2023-04-03 23:40:59,040  INFO [main] newSauce:39 - opened home page 
+2023-04-03 23:41:04,621  INFO [main] newSauce:43 - setting  username 
+2023-04-03 23:41:04,620  INFO [main] newSauce:43 - setting  username 
+2023-04-03 23:41:04,974  INFO [main] newSauce:46 - setting  password 
+2023-04-03 23:41:06,019  INFO [main] newSauce:46 - setting  password 
+2023-04-03 23:41:06,860  INFO [main] newSauce:48 - clicking button  
+2023-04-03 23:41:06,859  INFO [main] newSauce:48 - clicking button  
+2023-04-03 23:41:06,862  INFO [main] newSauce:54 - productpage  
+2023-04-03 23:41:06,862  INFO [main] newSauce:54 - productpage  
+2023-04-03 23:41:06,864  INFO [main] newSauce:66 - this is 	locked_out_user which is  not able to login 
+2023-04-03 23:41:06,866  INFO [main] newSauce:66 - this is 	locked_out_user which is  not able to login 
+2023-04-03 23:41:07,334  INFO [main] newSauce:39 - opened home page 
+2023-04-03 23:41:07,421  INFO [main] newSauce:39 - opened home page 
+2023-04-03 23:41:07,586  INFO [main] newSauce:43 - setting  username 
+2023-04-03 23:41:07,667  INFO [main] newSauce:43 - setting  username 
+2023-04-03 23:41:07,746  INFO [main] newSauce:46 - setting  password 
+2023-04-03 23:41:07,857  INFO [main] newSauce:46 - setting  password 
+2023-04-03 23:41:08,077  INFO [main] newSauce:48 - clicking button  
+2023-04-03 23:41:08,078  INFO [main] newSauce:54 - productpage  
+2023-04-03 23:41:08,102  INFO [main] newSauce:48 - clicking button  
+2023-04-03 23:41:08,103  INFO [main] newSauce:54 - productpage  
+2023-04-03 23:41:08,402  INFO [main] newSauce:39 - opened home page 
+2023-04-03 23:41:08,446  INFO [main] newSauce:39 - opened home page 
+2023-04-03 23:41:08,690  INFO [main] newSauce:43 - setting  username 
+2023-04-03 23:41:08,714  INFO [main] newSauce:43 - setting  username 
+2023-04-03 23:41:08,853  INFO [main] newSauce:46 - setting  password 
+2023-04-03 23:41:08,890  INFO [main] newSauce:46 - setting  password 
+2023-04-03 23:41:14,080  INFO [main] newSauce:48 - clicking button  
+2023-04-03 23:41:14,081  INFO [main] newSauce:54 - productpage  
+2023-04-03 23:41:14,120  INFO [main] newSauce:48 - clicking button  
+2023-04-03 23:41:14,120  INFO [main] newSauce:54 - productpage  
+2023-04-03 23:42:54,299  INFO [main] newSauce:39 - opened home page 
+2023-04-03 23:42:57,004  INFO [main] newSauce:43 - setting  username 
+2023-04-03 23:42:57,144  INFO [main] newSauce:46 - setting  password 
+2023-04-03 23:42:58,410  INFO [main] newSauce:48 - clicking button  
+2023-04-03 23:42:58,435  INFO [main] newSauce:54 - productpage  
+2023-04-03 23:42:59,055  INFO [main] newSauce:39 - opened home page 
+2023-04-03 23:42:59,172  INFO [main] newSauce:43 - setting  username 
+2023-04-03 23:42:59,270  INFO [main] newSauce:46 - setting  password 
+2023-04-03 23:42:59,429  INFO [main] newSauce:48 - clicking button  
+2023-04-03 23:42:59,431  INFO [main] newSauce:54 - productpage  
+2023-04-03 23:42:59,433  INFO [main] newSauce:66 - this is 	locked_out_user which is  not able to login 
+2023-04-03 23:42:59,782  INFO [main] newSauce:39 - opened home page 
+2023-04-03 23:42:59,884  INFO [main] newSauce:43 - setting  username 
+2023-04-03 23:42:59,972  INFO [main] newSauce:46 - setting  password 
+2023-04-03 23:43:00,082  INFO [main] newSauce:48 - clicking button  
+2023-04-03 23:43:00,083  INFO [main] newSauce:54 - productpage  
+2023-04-03 23:43:00,311  INFO [main] newSauce:39 - opened home page 
+2023-04-03 23:43:00,865  INFO [main] newSauce:43 - setting  username 
+2023-04-03 23:43:00,965  INFO [main] newSauce:46 - setting  password 
+2023-04-03 23:43:06,043  INFO [main] newSauce:48 - clicking button  
+2023-04-03 23:43:06,045  INFO [main] newSauce:54 - productpage  
+2023-04-03 23:45:04,731  INFO [main] newSauce:39 - opened home page 
+2023-04-03 23:45:06,046  INFO [main] newSauce:43 - setting  username 
+2023-04-03 23:45:06,360  INFO [main] newSauce:46 - setting  password 
+2023-04-03 23:45:07,254  INFO [main] newSauce:48 - clicking button  
+2023-04-03 23:45:07,286  INFO [main] newSauce:54 - productpage  
+2023-04-03 23:45:07,288  INFO [main] newSauce:57 - this is 	locked_out_user which is  not able to login 
+2023-04-03 23:45:07,829  INFO [main] newSauce:39 - opened home page 
+2023-04-03 23:45:07,923  INFO [main] newSauce:43 - setting  username 
+2023-04-03 23:45:08,062  INFO [main] newSauce:46 - setting  password 
+2023-04-03 23:45:08,281  INFO [main] newSauce:48 - clicking button  
+2023-04-03 23:45:08,283  INFO [main] newSauce:54 - productpage  
+2023-04-03 23:45:08,742  INFO [main] newSauce:39 - opened home page 
+2023-04-03 23:45:08,830  INFO [main] newSauce:43 - setting  username 
+2023-04-03 23:45:08,933  INFO [main] newSauce:46 - setting  password 
+2023-04-03 23:45:09,037  INFO [main] newSauce:48 - clicking button  
+2023-04-03 23:45:09,038  INFO [main] newSauce:54 - productpage  
+2023-04-03 23:45:09,039  INFO [main] newSauce:57 - this is 	locked_out_user which is  not able to login 
+2023-04-03 23:45:09,091  INFO [main] newSauce:39 - opened home page 
+2023-04-03 23:45:09,384  INFO [main] newSauce:43 - setting  username 
+2023-04-03 23:45:09,505  INFO [main] newSauce:46 - setting  password 
+2023-04-03 23:45:15,400  INFO [main] newSauce:48 - clicking button  
+2023-04-03 23:45:15,402  INFO [main] newSauce:54 - productpage  
+2023-04-03 23:45:15,403  INFO [main] newSauce:57 - this is 	locked_out_user which is  not able to login 
+2023-04-03 23:51:35,822  INFO [main] newSauce:39 - opened home page 
+2023-04-03 23:51:41,822  INFO [main] newSauce:43 - setting  username 
+2023-04-03 23:51:42,366  INFO [main] newSauce:46 - setting  password 
+2023-04-03 23:51:45,332  INFO [main] newSauce:48 - clicking button  
+2023-04-03 23:51:45,367  INFO [main] newSauce:54 - productpage  
+2023-04-03 23:51:45,370  INFO [main] newSauce:57 - this is 	locked_out_user which is  not able to login 
+2023-04-03 23:51:46,289  INFO [main] newSauce:39 - opened home page 
+2023-04-03 23:51:47,425  INFO [main] newSauce:43 - setting  username 
+2023-04-03 23:51:47,634  INFO [main] newSauce:46 - setting  password 
+2023-04-03 23:51:48,248  INFO [main] newSauce:48 - clicking button  
+2023-04-03 23:51:48,250  INFO [main] newSauce:54 - productpage  
+2023-04-03 23:51:49,100  INFO [main] newSauce:39 - opened home page 
+2023-04-03 23:51:49,288  INFO [main] newSauce:43 - setting  username 
+2023-04-03 23:51:49,495  INFO [main] newSauce:46 - setting  password 
+2023-04-03 23:51:49,754  INFO [main] newSauce:48 - clicking button  
+2023-04-03 23:51:49,756  INFO [main] newSauce:54 - productpage  
+2023-04-03 23:51:49,757  INFO [main] newSauce:57 - this is 	locked_out_user which is  not able to login 
+2023-04-03 23:51:50,125  INFO [main] newSauce:39 - opened home page 
+2023-04-03 23:51:50,374  INFO [main] newSauce:43 - setting  username 
+2023-04-03 23:51:50,512  INFO [main] newSauce:46 - setting  password 
+2023-04-03 23:51:55,623  INFO [main] newSauce:48 - clicking button  
+2023-04-03 23:51:55,625  INFO [main] newSauce:54 - productpage  
+2023-04-03 23:51:55,626  INFO [main] newSauce:57 - this is 	locked_out_user which is  not able to login 
+2023-04-03 23:57:42,280  INFO [main] newSauce:39 - opened home page 
+2023-04-03 23:57:43,625  INFO [main] newSauce:43 - setting  username 
+2023-04-03 23:57:43,815  INFO [main] newSauce:46 - setting  password 
+2023-04-03 23:57:44,452  INFO [main] newSauce:48 - clicking button  
+2023-04-03 23:57:44,459  INFO [main] newSauce:54 - productpage  
+2023-04-03 23:57:44,975  INFO [main] newSauce:39 - opened home page 
+2023-04-03 23:57:45,118  INFO [main] newSauce:43 - setting  username 
+2023-04-03 23:57:45,227  INFO [main] newSauce:46 - setting  password 
+2023-04-03 23:57:45,358  INFO [main] newSauce:48 - clicking button  
+2023-04-03 23:57:45,359  INFO [main] newSauce:54 - productpage  
+2023-04-03 23:57:45,360  INFO [main] newSauce:57 - this is 	locked_out_user which is  not able to login 
+2023-04-03 23:57:45,483  INFO [main] newSauce:39 - opened home page 
+2023-04-03 23:57:45,615  INFO [main] newSauce:43 - setting  username 
+2023-04-03 23:57:45,780  INFO [main] newSauce:46 - setting  password 
+2023-04-03 23:57:45,964  INFO [main] newSauce:48 - clicking button  
+2023-04-03 23:57:45,965  INFO [main] newSauce:54 - productpage  
+2023-04-03 23:57:46,108  INFO [main] newSauce:39 - opened home page 
+2023-04-03 23:57:46,355  INFO [main] newSauce:43 - setting  username 
+2023-04-03 23:57:46,469  INFO [main] newSauce:46 - setting  password 
+2023-04-03 23:57:51,576  INFO [main] newSauce:48 - clicking button  
+2023-04-03 23:57:51,579  INFO [main] newSauce:54 - productpage  
+2023-04-04 00:00:33,080  INFO [main] newSauce:36 - opened home page 
+2023-04-04 00:00:37,715  INFO [main] newSauce:40 - setting  username 
+2023-04-04 00:00:38,243  INFO [main] newSauce:43 - setting  password 
+2023-04-04 00:00:39,237  INFO [main] newSauce:47 - clicking button  
+2023-04-04 00:00:44,236  INFO [main] newSauce:36 - opened home page 
+2023-04-04 00:00:44,463  INFO [main] newSauce:40 - setting  username 
+2023-04-04 00:00:44,698  INFO [main] newSauce:43 - setting  password 
+2023-04-04 00:00:44,794  INFO [main] newSauce:47 - clicking button  
+2023-04-04 00:00:44,912  INFO [main] newSauce:36 - opened home page 
+2023-04-04 00:00:45,007  INFO [main] newSauce:40 - setting  username 
+2023-04-04 00:00:45,098  INFO [main] newSauce:43 - setting  password 
+2023-04-04 00:00:45,165  INFO [main] newSauce:47 - clicking button  
+2023-04-04 00:00:45,219  INFO [main] newSauce:36 - opened home page 
+2023-04-04 00:00:45,323  INFO [main] newSauce:40 - setting  username 
+2023-04-04 00:00:45,455  INFO [main] newSauce:43 - setting  password 
+2023-04-04 00:00:47,293  INFO [main] newSauce:47 - clicking button  
+2023-04-04 00:00:47,560  INFO [main] newSauce:39 - opened home page 
+2023-04-04 00:00:48,876  INFO [main] newSauce:43 - setting  username 
+2023-04-04 00:00:48,978  INFO [main] newSauce:46 - setting  password 
+2023-04-04 00:00:49,220  INFO [main] newSauce:48 - clicking button  
+2023-04-04 00:00:49,270  INFO [main] newSauce:54 - productpage  
+2023-04-04 00:00:50,407  INFO [main] newSauce:39 - opened home page 
+2023-04-04 00:00:53,468  INFO [main] newSauce:43 - setting  username 
+2023-04-04 00:00:53,695  INFO [main] newSauce:46 - setting  password 
+2023-04-04 00:00:53,838  INFO [main] newSauce:48 - clicking button  
+2023-04-04 00:00:53,840  INFO [main] newSauce:54 - productpage  
+2023-04-04 00:00:53,841  INFO [main] newSauce:57 - this is 	locked_out_user which is  not able to login 
+2023-04-04 00:00:53,990  INFO [main] newSauce:39 - opened home page 
+2023-04-04 00:00:54,164  INFO [main] newSauce:43 - setting  username 
+2023-04-04 00:00:54,294  INFO [main] newSauce:46 - setting  password 
+2023-04-04 00:00:54,397  INFO [main] newSauce:48 - clicking button  
+2023-04-04 00:00:54,399  INFO [main] newSauce:54 - productpage  
+2023-04-04 00:00:54,881  INFO [main] newSauce:39 - opened home page 
+2023-04-04 00:00:55,135  INFO [main] newSauce:43 - setting  username 
+2023-04-04 00:00:55,233  INFO [main] newSauce:46 - setting  password 
+2023-04-04 00:01:00,370  INFO [main] newSauce:48 - clicking button  
+2023-04-04 00:01:00,371  INFO [main] newSauce:54 - productpage  
+2023-04-04 00:01:00,552  INFO [main] newSauce:22 - opened home page 
+2023-04-04 00:01:00,700  INFO [main] newSauce:26 - setting  username 
+2023-04-04 00:01:00,826  INFO [main] newSauce:29 - setting  password 
+2023-04-04 00:01:00,927  INFO [main] newSauce:31 - clicking button  
+2023-04-04 00:01:02,751  INFO [main] newSauce:39 - select  
+2023-04-04 00:01:12,972  INFO [main] newSauce:45 - product added to clickadd  
+2023-04-04 00:01:18,869  INFO [main] newSauce:48 - Findproduct1  
+2023-04-04 00:01:19,135  INFO [main] newSauce:51 - cartlist  
+2023-04-04 00:01:24,374  INFO [main] newSauce:54 - checkout1  
+2023-04-04 00:01:24,552  INFO [main] newSauce:78 - opened home page 
+2023-04-04 00:01:24,666  INFO [main] newSauce:82 - setting  username 
+2023-04-04 00:01:24,791  INFO [main] newSauce:85 - setting  password 
+2023-04-04 00:01:24,915  INFO [main] newSauce:87 - clicking button  
+2023-04-04 00:01:24,990  INFO [main] newSauce:95 - remove product  
+2023-04-04 00:01:25,187  INFO [main] newSauce:97 - Findproduct1  
+2023-04-04 00:01:30,478  INFO [main] newSauce:100 - cartlist  
+2023-04-04 00:01:35,689  INFO [main] newSauce:103 - checkout1  
+2023-04-04 00:01:35,887  INFO [main] newSauce:18 - opened home page 
+2023-04-04 00:01:39,010  INFO [main] newSauce:22 - setting  username 
+2023-04-04 00:01:39,137  INFO [main] newSauce:25 - setting  password 
+2023-04-04 00:01:39,245  INFO [main] newSauce:27 - clicking button  
+2023-04-04 00:01:41,607  INFO [main] newSauce:36 - Addtocartclick  
+2023-04-04 00:01:41,833  INFO [main] newSauce:42 - checkout  
+2023-04-04 00:01:42,390  INFO [main] newSauce:45 - setting  username 
+2023-04-04 00:01:42,571  INFO [main] newSauce:48 - setting  lastname 
+2023-04-04 00:01:42,666  INFO [main] newSauce:51 - setting  pincode 
+2023-04-04 00:01:46,046  INFO [main] newSauce:54 - continies  
+2023-04-04 00:01:46,271  INFO [main] newSauce:58 - finish  
+2023-04-04 00:01:46,381  INFO [main] newSauce:61 - Backtohome  
+2023-04-04 00:01:47,248  INFO [main] newSauce:34 - opened home page 
+2023-04-04 00:01:47,701  INFO [main] newSauce:38 - setting  username 
+2023-04-04 00:01:47,834  INFO [main] newSauce:41 - setting  password 
+2023-04-04 00:01:47,957  INFO [main] newSauce:45 - clicking button  
+2023-04-04 00:01:48,801  INFO [main] newSauce:54 - clicking button  
+2023-04-04 00:02:12,043  INFO [main] newSauce:57 - clicking button  
+2023-04-04 00:02:18,027  INFO [main] newSauce:34 - opened home page 
+2023-04-04 00:02:18,242  INFO [main] newSauce:38 - setting  username 
+2023-04-04 00:02:18,342  INFO [main] newSauce:41 - setting  password 
+2023-04-04 00:02:18,419  INFO [main] newSauce:45 - clicking button  
+2023-04-04 00:02:18,420  INFO [main] newSauce:66 - this is 	locked_out_user which is  not able to login 
+2023-04-04 00:02:18,481  INFO [main] newSauce:34 - opened home page 
+2023-04-04 00:02:18,589  INFO [main] newSauce:38 - setting  username 
+2023-04-04 00:02:18,701  INFO [main] newSauce:41 - setting  password 
+2023-04-04 00:02:18,808  INFO [main] newSauce:45 - clicking button  
+2023-04-04 00:02:18,872  INFO [main] newSauce:54 - clicking button  
+2023-04-04 00:02:45,600  INFO [main] newSauce:57 - clicking button  
+2023-04-04 00:02:46,066  INFO [main] newSauce:34 - opened home page 
+2023-04-04 00:02:46,226  INFO [main] newSauce:38 - setting  username 
+2023-04-04 00:02:46,372  INFO [main] newSauce:41 - setting  password 
+2023-04-04 00:02:51,504  INFO [main] newSauce:45 - clicking button  
+2023-04-04 00:02:51,579  INFO [main] newSauce:54 - clicking button  
+2023-04-04 00:03:08,783  INFO [main] newSauce:57 - clicking button  
+2023-04-04 00:03:16,734 DEBUG [main] cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-04 00:03:16,739 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2023-04-04 00:03:16,751 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2023-04-04 00:03:16,753 DEBUG [main] cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/MICRON/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2023-04-04 00:03:18,082 DEBUG [main] cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-04 00:03:18,084 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2023-04-04 00:03:18,087 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2023-04-04 00:03:18,089 DEBUG [main] cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/MICRON/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2023-04-04 00:03:18,103 DEBUG [main] cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-04 00:03:18,141 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2023-04-04 00:03:18,162 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2023-04-04 00:03:18,163 DEBUG [main] cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/MICRON/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2023-04-04 00:03:18,196 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-04 00:03:18,198 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2023-04-04 00:03:18,205 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2023-04-04 00:03:18,211 DEBUG [main] cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/MICRON/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2023-04-04 00:03:18,248 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-04 00:03:18,251 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2023-04-04 00:03:18,254 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2023-04-04 00:03:18,255 DEBUG [main] cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/MICRON/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2023-04-04 00:03:18,306 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-04 00:03:18,308 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2023-04-04 00:03:18,312 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2023-04-04 00:03:18,313 DEBUG [main] cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/MICRON/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2023-04-04 00:03:18,352 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-04 00:03:18,359 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-04 00:03:18,365 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-04 00:03:18,368 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-04 00:03:18,374 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-04 00:03:18,381 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-04 00:03:18,384 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-04 00:03:18,386 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-04 00:03:18,388 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-04 00:03:18,395 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-04 00:03:18,401 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-04 00:03:18,409 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-04 00:03:18,415 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-04 00:03:18,422 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-04 00:03:18,426 DEBUG [main] cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-04 00:03:18,432 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2023-04-04 00:03:18,433 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2023-04-04 00:03:18,435 DEBUG [main] cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/MICRON/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2023-04-04 00:03:18,442 DEBUG [main] cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-04 00:03:18,443 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2023-04-04 00:03:18,443 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2023-04-04 00:03:18,444 DEBUG [main] cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/MICRON/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2023-04-04 00:03:18,453 DEBUG [main] cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-04 00:03:18,456 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2023-04-04 00:03:18,458 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2023-04-04 00:03:18,459 DEBUG [main] cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/MICRON/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2023-04-04 00:03:18,476 DEBUG [main] cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-04 00:03:18,482 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2023-04-04 00:03:18,484 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2023-04-04 00:03:18,488 DEBUG [main] cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/MICRON/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2023-04-04 00:03:18,522 DEBUG [main] cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-04 00:03:18,524 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2023-04-04 00:03:18,525 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2023-04-04 00:03:18,525 DEBUG [main] cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/MICRON/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2023-04-04 00:10:14,940  INFO [main] newSauce:36 - opened home page 
+2023-04-04 00:10:17,560  INFO [main] newSauce:40 - setting  username 
+2023-04-04 00:10:17,730  INFO [main] newSauce:43 - setting  password 
+2023-04-04 00:10:18,281  INFO [main] newSauce:47 - clicking button  
+2023-04-04 00:10:18,855  INFO [main] newSauce:36 - opened home page 
+2023-04-04 00:10:18,965  INFO [main] newSauce:40 - setting  username 
+2023-04-04 00:10:19,094  INFO [main] newSauce:43 - setting  password 
+2023-04-04 00:10:19,323  INFO [main] newSauce:47 - clicking button  
+2023-04-04 00:10:19,571  INFO [main] newSauce:36 - opened home page 
+2023-04-04 00:10:19,656  INFO [main] newSauce:40 - setting  username 
+2023-04-04 00:10:19,776  INFO [main] newSauce:43 - setting  password 
+2023-04-04 00:10:19,889  INFO [main] newSauce:47 - clicking button  
+2023-04-04 00:10:20,028  INFO [main] newSauce:36 - opened home page 
+2023-04-04 00:10:20,140  INFO [main] newSauce:40 - setting  username 
+2023-04-04 00:10:20,247  INFO [main] newSauce:43 - setting  password 
+2023-04-04 00:10:20,943  INFO [main] newSauce:47 - clicking button  
+2023-04-04 00:10:21,072  INFO [main] newSauce:39 - opened home page 
+2023-04-04 00:10:21,261  INFO [main] newSauce:43 - setting  username 
+2023-04-04 00:10:21,386  INFO [main] newSauce:46 - setting  password 
+2023-04-04 00:10:21,493  INFO [main] newSauce:48 - clicking button  
+2023-04-04 00:10:21,563  INFO [main] newSauce:54 - productpage  
+2023-04-04 00:10:21,917  INFO [main] newSauce:39 - opened home page 
+2023-04-04 00:10:22,222  INFO [main] newSauce:43 - setting  username 
+2023-04-04 00:10:22,335  INFO [main] newSauce:46 - setting  password 
+2023-04-04 00:10:22,411  INFO [main] newSauce:48 - clicking button  
+2023-04-04 00:10:22,413  INFO [main] newSauce:54 - productpage  
+2023-04-04 00:10:22,413  INFO [main] newSauce:57 - this is 	locked_out_user which is  not able to login 
+2023-04-04 00:10:22,486  INFO [main] newSauce:39 - opened home page 
+2023-04-04 00:10:22,582  INFO [main] newSauce:43 - setting  username 
+2023-04-04 00:10:22,688  INFO [main] newSauce:46 - setting  password 
+2023-04-04 00:10:22,791  INFO [main] newSauce:48 - clicking button  
+2023-04-04 00:10:22,793  INFO [main] newSauce:54 - productpage  
+2023-04-04 00:10:22,896  INFO [main] newSauce:39 - opened home page 
+2023-04-04 00:10:23,018  INFO [main] newSauce:43 - setting  username 
+2023-04-04 00:10:23,116  INFO [main] newSauce:46 - setting  password 
+2023-04-04 00:10:28,219  INFO [main] newSauce:48 - clicking button  
+2023-04-04 00:10:28,219  INFO [main] newSauce:54 - productpage  
+2023-04-04 00:10:28,319  INFO [main] newSauce:22 - opened home page 
+2023-04-04 00:10:28,435  INFO [main] newSauce:26 - setting  username 
+2023-04-04 00:10:28,535  INFO [main] newSauce:29 - setting  password 
+2023-04-04 00:10:28,621  INFO [main] newSauce:31 - clicking button  
+2023-04-04 00:10:29,285  INFO [main] newSauce:39 - select  
+2023-04-04 00:10:29,364  INFO [main] newSauce:45 - product added to clickadd  
+2023-04-04 00:10:29,432  INFO [main] newSauce:48 - Findproduct1  
+2023-04-04 00:10:29,492  INFO [main] newSauce:51 - cartlist  
+2023-04-04 00:10:29,564  INFO [main] newSauce:54 - checkout1  
+2023-04-04 00:10:29,831  INFO [main] newSauce:78 - opened home page 
+2023-04-04 00:10:29,941  INFO [main] newSauce:82 - setting  username 
+2023-04-04 00:10:30,040  INFO [main] newSauce:85 - setting  password 
+2023-04-04 00:10:30,135  INFO [main] newSauce:87 - clicking button  
+2023-04-04 00:10:30,207  INFO [main] newSauce:95 - remove product  
+2023-04-04 00:10:30,284  INFO [main] newSauce:97 - Findproduct1  
+2023-04-04 00:10:30,338  INFO [main] newSauce:100 - cartlist  
+2023-04-04 00:10:30,391  INFO [main] newSauce:102 - checkout1  
+2023-04-04 00:10:30,529  INFO [main] newSauce:18 - opened home page 
+2023-04-04 00:10:34,366  INFO [main] newSauce:22 - setting  username 
+2023-04-04 00:10:34,483  INFO [main] newSauce:25 - setting  password 
+2023-04-04 00:10:34,594  INFO [main] newSauce:27 - clicking button  
+2023-04-04 00:10:36,673  INFO [main] newSauce:36 - Addtocartclick  
+2023-04-04 00:10:36,870  INFO [main] newSauce:42 - checkout  
+2023-04-04 00:10:37,003  INFO [main] newSauce:45 - setting  username 
+2023-04-04 00:10:38,443  INFO [main] newSauce:48 - setting  lastname 
+2023-04-04 00:10:38,536  INFO [main] newSauce:51 - setting  pincode 
+2023-04-04 00:10:41,790  INFO [main] newSauce:54 - continies  
+2023-04-04 00:10:42,008  INFO [main] newSauce:58 - finish  
+2023-04-04 00:10:42,121  INFO [main] newSauce:61 - Backtohome  
+2023-04-04 00:10:42,307  INFO [main] newSauce:34 - opened home page 
+2023-04-04 00:10:43,114  INFO [main] newSauce:38 - setting  username 
+2023-04-04 00:10:43,236  INFO [main] newSauce:41 - setting  password 
+2023-04-04 00:10:43,341  INFO [main] newSauce:45 - clicking button  
+2023-04-04 00:10:43,421  INFO [main] newSauce:54 - clicking button  
+2023-04-04 00:10:45,382  INFO [main] newSauce:34 - opened home page 
+2023-04-04 00:10:45,505  INFO [main] newSauce:38 - setting  username 
+2023-04-04 00:10:45,620  INFO [main] newSauce:41 - setting  password 
+2023-04-04 00:10:45,706  INFO [main] newSauce:45 - clicking button  
+2023-04-04 00:10:45,706  INFO [main] newSauce:66 - this is 	locked_out_user which is  not able to login 
+2023-04-04 00:10:45,825  INFO [main] newSauce:34 - opened home page 
+2023-04-04 00:10:46,016  INFO [main] newSauce:38 - setting  username 
+2023-04-04 00:10:46,295  INFO [main] newSauce:41 - setting  password 
+2023-04-04 00:10:46,407  INFO [main] newSauce:45 - clicking button  
+2023-04-04 00:10:46,483  INFO [main] newSauce:54 - clicking button  
+2023-04-04 00:10:46,640  INFO [main] newSauce:34 - opened home page 
+2023-04-04 00:10:46,761  INFO [main] newSauce:38 - setting  username 
+2023-04-04 00:10:46,854  INFO [main] newSauce:41 - setting  password 
+2023-04-04 00:10:51,950  INFO [main] newSauce:45 - clicking button  
+2023-04-04 00:10:52,004  INFO [main] newSauce:54 - clicking button  
+2023-04-04 00:10:54,528 DEBUG [main] cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-04 00:10:54,535 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2023-04-04 00:10:54,548 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2023-04-04 00:10:54,551 DEBUG [main] cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/MICRON/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2023-04-04 00:10:58,821 DEBUG [main] cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-04 00:10:58,823 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2023-04-04 00:10:58,825 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2023-04-04 00:10:58,825 DEBUG [main] cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/MICRON/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2023-04-04 00:10:58,835 DEBUG [main] cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-04 00:10:58,837 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2023-04-04 00:10:58,909 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2023-04-04 00:10:58,910 DEBUG [main] cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/MICRON/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2023-04-04 00:10:58,923 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-04 00:10:58,924 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2023-04-04 00:10:58,925 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2023-04-04 00:10:58,926 DEBUG [main] cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/MICRON/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2023-04-04 00:10:58,940 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-04 00:10:58,942 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2023-04-04 00:10:58,943 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2023-04-04 00:10:58,945 DEBUG [main] cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/MICRON/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2023-04-04 00:10:59,149 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-04 00:10:59,151 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2023-04-04 00:10:59,186 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2023-04-04 00:10:59,187 DEBUG [main] cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/MICRON/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2023-04-04 00:10:59,223 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-04 00:10:59,228 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-04 00:10:59,231 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-04 00:10:59,233 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-04 00:10:59,235 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-04 00:10:59,237 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-04 00:10:59,241 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-04 00:10:59,244 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-04 00:10:59,247 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-04 00:10:59,249 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-04 00:10:59,251 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-04 00:10:59,253 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-04 00:10:59,256 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-04 00:10:59,259 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-04 00:10:59,261 DEBUG [main] cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-04 00:10:59,348 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2023-04-04 00:10:59,349 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2023-04-04 00:10:59,351 DEBUG [main] cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/MICRON/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2023-04-04 00:10:59,362 DEBUG [main] cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-04 00:10:59,362 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2023-04-04 00:10:59,363 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2023-04-04 00:10:59,364 DEBUG [main] cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/MICRON/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2023-04-04 00:10:59,372 DEBUG [main] cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-04 00:10:59,374 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2023-04-04 00:10:59,376 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2023-04-04 00:10:59,378 DEBUG [main] cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/MICRON/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2023-04-04 00:10:59,383 DEBUG [main] cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-04 00:10:59,384 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2023-04-04 00:10:59,385 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2023-04-04 00:10:59,386 DEBUG [main] cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/MICRON/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2023-04-04 00:10:59,442 DEBUG [main] cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-04 00:10:59,444 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2023-04-04 00:10:59,445 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2023-04-04 00:10:59,446 DEBUG [main] cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/MICRON/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2023-04-04 00:12:12,233  INFO [main] newSauce:36 - opened home page 
+2023-04-04 00:12:16,314  INFO [main] newSauce:40 - setting  username 
+2023-04-04 00:12:16,601  INFO [main] newSauce:43 - setting  password 
+2023-04-04 00:12:17,362  INFO [main] newSauce:47 - clicking button  
+2023-04-04 00:12:18,871  INFO [main] newSauce:36 - opened home page 
+2023-04-04 00:12:18,983  INFO [main] newSauce:40 - setting  username 
+2023-04-04 00:12:19,081  INFO [main] newSauce:43 - setting  password 
+2023-04-04 00:12:19,157  INFO [main] newSauce:47 - clicking button  
+2023-04-04 00:12:19,535  INFO [main] newSauce:36 - opened home page 
+2023-04-04 00:12:19,725  INFO [main] newSauce:40 - setting  username 
+2023-04-04 00:12:19,946  INFO [main] newSauce:43 - setting  password 
+2023-04-04 00:12:20,081  INFO [main] newSauce:47 - clicking button  
+2023-04-04 00:12:20,258  INFO [main] newSauce:36 - opened home page 
+2023-04-04 00:12:20,407  INFO [main] newSauce:40 - setting  username 
+2023-04-04 00:12:20,545  INFO [main] newSauce:43 - setting  password 
+2023-04-04 00:12:22,652  INFO [main] newSauce:47 - clicking button  
+2023-04-04 00:12:22,874  INFO [main] newSauce:39 - opened home page 
+2023-04-04 00:12:24,241  INFO [main] newSauce:43 - setting  username 
+2023-04-04 00:12:24,533  INFO [main] newSauce:46 - setting  password 
+2023-04-04 00:12:24,732  INFO [main] newSauce:48 - clicking button  
+2023-04-04 00:12:24,789  INFO [main] newSauce:54 - productpage  
+2023-04-04 00:12:26,009  INFO [main] newSauce:39 - opened home page 
+2023-04-04 00:12:26,593  INFO [main] newSauce:43 - setting  username 
+2023-04-04 00:12:26,792  INFO [main] newSauce:46 - setting  password 
+2023-04-04 00:12:26,865  INFO [main] newSauce:48 - clicking button  
+2023-04-04 00:12:26,866  INFO [main] newSauce:54 - productpage  
+2023-04-04 00:12:26,866  INFO [main] newSauce:57 - this is 	locked_out_user which is  not able to login 
+2023-04-04 00:12:26,980  INFO [main] newSauce:39 - opened home page 
+2023-04-04 00:12:27,103  INFO [main] newSauce:43 - setting  username 
+2023-04-04 00:12:27,225  INFO [main] newSauce:46 - setting  password 
+2023-04-04 00:12:27,327  INFO [main] newSauce:48 - clicking button  
+2023-04-04 00:12:27,330  INFO [main] newSauce:54 - productpage  
+2023-04-04 00:12:27,635  INFO [main] newSauce:39 - opened home page 
+2023-04-04 00:12:27,895  INFO [main] newSauce:43 - setting  username 
+2023-04-04 00:12:28,006  INFO [main] newSauce:46 - setting  password 
+2023-04-04 00:12:33,098  INFO [main] newSauce:48 - clicking button  
+2023-04-04 00:12:33,098  INFO [main] newSauce:54 - productpage  
+2023-04-04 00:12:33,225  INFO [main] newSauce:22 - opened home page 
+2023-04-04 00:12:33,322  INFO [main] newSauce:26 - setting  username 
+2023-04-04 00:12:33,435  INFO [main] newSauce:29 - setting  password 
+2023-04-04 00:12:33,535  INFO [main] newSauce:31 - clicking button  
+2023-04-04 00:12:34,155  INFO [main] newSauce:39 - select  
+2023-04-04 00:12:34,306  INFO [main] newSauce:45 - product added to clickadd  
+2023-04-04 00:12:34,517  INFO [main] newSauce:48 - Findproduct1  
+2023-04-04 00:12:34,673  INFO [main] newSauce:51 - cartlist  
+2023-04-04 00:12:34,750  INFO [main] newSauce:54 - checkout1  
+2023-04-04 00:12:34,886  INFO [main] newSauce:78 - opened home page 
+2023-04-04 00:12:35,004  INFO [main] newSauce:82 - setting  username 
+2023-04-04 00:12:35,112  INFO [main] newSauce:85 - setting  password 
+2023-04-04 00:12:35,211  INFO [main] newSauce:87 - clicking button  
+2023-04-04 00:12:35,280  INFO [main] newSauce:95 - remove product  
+2023-04-04 00:12:35,421  INFO [main] newSauce:97 - Findproduct1  
+2023-04-04 00:12:35,474  INFO [main] newSauce:100 - cartlist  
+2023-04-04 00:12:35,539  INFO [main] newSauce:102 - checkout1  
+2023-04-04 00:12:35,698  INFO [main] newSauce:18 - opened home page 
+2023-04-04 00:12:38,911  INFO [main] newSauce:22 - setting  username 
+2023-04-04 00:12:39,035  INFO [main] newSauce:25 - setting  password 
+2023-04-04 00:12:39,141  INFO [main] newSauce:27 - clicking button  
+2023-04-04 00:12:41,275  INFO [main] newSauce:36 - Addtocartclick  
+2023-04-04 00:12:41,422  INFO [main] newSauce:42 - checkout  
+2023-04-04 00:12:41,567  INFO [main] newSauce:45 - setting  username 
+2023-04-04 00:12:41,722  INFO [main] newSauce:48 - setting  lastname 
+2023-04-04 00:12:41,830  INFO [main] newSauce:51 - setting  pincode 
+2023-04-04 00:12:45,033  INFO [main] newSauce:54 - continies  
+2023-04-04 00:12:45,200  INFO [main] newSauce:58 - finish  
+2023-04-04 00:12:45,295  INFO [main] newSauce:61 - Backtohome  
+2023-04-04 00:12:45,539  INFO [main] newSauce:34 - opened home page 
+2023-04-04 00:12:45,671  INFO [main] newSauce:38 - setting  username 
+2023-04-04 00:12:45,781  INFO [main] newSauce:41 - setting  password 
+2023-04-04 00:12:45,863  INFO [main] newSauce:45 - clicking button  
+2023-04-04 00:12:45,922  INFO [main] newSauce:54 - clicking button  
+2023-04-04 00:12:46,617  INFO [main] newSauce:34 - opened home page 
+2023-04-04 00:12:46,723  INFO [main] newSauce:38 - setting  username 
+2023-04-04 00:12:46,839  INFO [main] newSauce:41 - setting  password 
+2023-04-04 00:12:46,919  INFO [main] newSauce:45 - clicking button  
+2023-04-04 00:12:46,920  INFO [main] newSauce:66 - this is 	locked_out_user which is  not able to login 
+2023-04-04 00:12:47,004  INFO [main] newSauce:34 - opened home page 
+2023-04-04 00:12:47,099  INFO [main] newSauce:38 - setting  username 
+2023-04-04 00:12:47,202  INFO [main] newSauce:41 - setting  password 
+2023-04-04 00:12:47,291  INFO [main] newSauce:45 - clicking button  
+2023-04-04 00:12:47,369  INFO [main] newSauce:54 - clicking button  
+2023-04-04 00:12:47,482  INFO [main] newSauce:34 - opened home page 
+2023-04-04 00:12:47,607  INFO [main] newSauce:38 - setting  username 
+2023-04-04 00:12:47,711  INFO [main] newSauce:41 - setting  password 
+2023-04-04 00:12:53,209  INFO [main] newSauce:45 - clicking button  
+2023-04-04 00:12:53,364  INFO [main] newSauce:54 - clicking button  
+2023-04-04 00:12:56,874 DEBUG [main] cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-04 00:12:56,879 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2023-04-04 00:12:56,893 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2023-04-04 00:12:56,895 DEBUG [main] cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/MICRON/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2023-04-04 00:12:58,634 DEBUG [main] cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-04 00:12:58,637 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2023-04-04 00:12:58,641 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2023-04-04 00:12:58,643 DEBUG [main] cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/MICRON/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2023-04-04 00:12:58,662 DEBUG [main] cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-04 00:12:58,781 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2023-04-04 00:12:58,791 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2023-04-04 00:12:58,792 DEBUG [main] cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/MICRON/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2023-04-04 00:12:58,822 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-04 00:12:58,825 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2023-04-04 00:12:58,832 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2023-04-04 00:12:58,833 DEBUG [main] cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/MICRON/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2023-04-04 00:12:58,850 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-04 00:12:58,851 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2023-04-04 00:12:58,853 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2023-04-04 00:12:58,854 DEBUG [main] cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/MICRON/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2023-04-04 00:12:58,885 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-04 00:12:58,886 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2023-04-04 00:12:58,914 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2023-04-04 00:12:58,915 DEBUG [main] cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/MICRON/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2023-04-04 00:12:58,936 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-04 00:12:58,938 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-04 00:12:58,940 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-04 00:12:58,941 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-04 00:12:58,943 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-04 00:12:58,944 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-04 00:12:58,949 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-04 00:12:58,951 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-04 00:12:58,955 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-04 00:12:58,958 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-04 00:12:58,962 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-04 00:12:58,966 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-04 00:12:58,968 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-04 00:12:58,970 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-04 00:12:58,977 DEBUG [main] cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-04 00:12:58,999 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2023-04-04 00:12:59,000 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2023-04-04 00:12:59,001 DEBUG [main] cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/MICRON/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2023-04-04 00:12:59,007 DEBUG [main] cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-04 00:12:59,008 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2023-04-04 00:12:59,008 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2023-04-04 00:12:59,009 DEBUG [main] cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/MICRON/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2023-04-04 00:12:59,039 DEBUG [main] cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-04 00:12:59,043 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2023-04-04 00:12:59,047 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2023-04-04 00:12:59,050 DEBUG [main] cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/MICRON/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2023-04-04 00:12:59,057 DEBUG [main] cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-04 00:12:59,068 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2023-04-04 00:12:59,074 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2023-04-04 00:12:59,077 DEBUG [main] cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/MICRON/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2023-04-04 00:12:59,095 DEBUG [main] cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-04 00:12:59,097 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2023-04-04 00:12:59,103 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2023-04-04 00:12:59,103 DEBUG [main] cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/MICRON/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2023-04-04 00:14:38,753  INFO [main] newSauce:34 - opened home page 
+2023-04-04 00:14:39,578  INFO [main] newSauce:38 - setting  username 
+2023-04-04 00:14:39,767  INFO [main] newSauce:41 - setting  password 
+2023-04-04 00:14:40,951  INFO [main] newSauce:45 - clicking button  
+2023-04-04 00:14:41,101  INFO [main] newSauce:54 - clicking button  
+2023-04-04 00:14:41,494  INFO [main] newSauce:34 - opened home page 
+2023-04-04 00:14:41,628  INFO [main] newSauce:38 - setting  username 
+2023-04-04 00:14:41,744  INFO [main] newSauce:41 - setting  password 
+2023-04-04 00:14:41,834  INFO [main] newSauce:45 - clicking button  
+2023-04-04 00:14:41,835  INFO [main] newSauce:66 - this is 	locked_out_user which is  not able to login 
+2023-04-04 00:14:41,929  INFO [main] newSauce:34 - opened home page 
+2023-04-04 00:14:42,034  INFO [main] newSauce:38 - setting  username 
+2023-04-04 00:14:42,139  INFO [main] newSauce:41 - setting  password 
+2023-04-04 00:14:42,274  INFO [main] newSauce:45 - clicking button  
+2023-04-04 00:14:42,333  INFO [main] newSauce:54 - clicking button  
+2023-04-04 00:14:42,551  INFO [main] newSauce:34 - opened home page 
+2023-04-04 00:14:42,804  INFO [main] newSauce:38 - setting  username 
+2023-04-04 00:14:42,911  INFO [main] newSauce:41 - setting  password 
+2023-04-04 00:14:47,998  INFO [main] newSauce:45 - clicking button  
+2023-04-04 00:14:48,091  INFO [main] newSauce:54 - clicking button  
+2023-04-04 00:26:10,366  INFO [main] newSauce:34 - opened home page 
+2023-04-04 00:26:11,887  INFO [main] newSauce:38 - setting  username 
+2023-04-04 00:26:12,094  INFO [main] newSauce:41 - setting  password 
+2023-04-04 00:26:12,916  INFO [main] newSauce:45 - clicking button  
+2023-04-04 00:26:12,994  INFO [main] newSauce:54 - clicking button  
+2023-04-04 00:26:14,046  INFO [main] newSauce:34 - opened home page 
+2023-04-04 00:26:14,166  INFO [main] newSauce:38 - setting  username 
+2023-04-04 00:26:14,265  INFO [main] newSauce:41 - setting  password 
+2023-04-04 00:26:14,352  INFO [main] newSauce:45 - clicking button  
+2023-04-04 00:26:14,352  INFO [main] newSauce:66 - this is 	locked_out_user which is  not able to login 
+2023-04-04 00:26:14,440  INFO [main] newSauce:34 - opened home page 
+2023-04-04 00:26:14,562  INFO [main] newSauce:38 - setting  username 
+2023-04-04 00:26:14,681  INFO [main] newSauce:41 - setting  password 
+2023-04-04 00:26:14,799  INFO [main] newSauce:45 - clicking button  
+2023-04-04 00:26:14,862  INFO [main] newSauce:54 - clicking button  
+2023-04-04 00:26:22,435  INFO [main] newSauce:57 - clicking button  
+2023-04-04 00:26:24,067  INFO [main] newSauce:34 - opened home page 
+2023-04-04 00:26:24,278  INFO [main] newSauce:38 - setting  username 
+2023-04-04 00:26:24,400  INFO [main] newSauce:41 - setting  password 
+2023-04-04 00:26:29,550  INFO [main] newSauce:45 - clicking button  
+2023-04-04 00:26:29,621  INFO [main] newSauce:54 - clicking button  
+2023-04-04 00:26:59,198  INFO [main] newSauce:57 - clicking button  
+2023-04-04 00:29:17,829  INFO [main] newSauce:34 - opened home page 
+2023-04-04 00:29:25,881  INFO [main] newSauce:38 - setting  username 
+2023-04-04 00:29:26,453  INFO [main] newSauce:41 - setting  password 
+2023-04-04 00:29:29,601  INFO [main] newSauce:45 - clicking button  
+2023-04-04 00:29:30,009  INFO [main] newSauce:54 - clicking button  
+2023-04-04 00:29:32,629  INFO [main] newSauce:34 - opened home page 
+2023-04-04 00:29:32,776  INFO [main] newSauce:38 - setting  username 
+2023-04-04 00:29:32,909  INFO [main] newSauce:41 - setting  password 
+2023-04-04 00:29:33,212  INFO [main] newSauce:45 - clicking button  
+2023-04-04 00:29:33,214  INFO [main] newSauce:66 - this is 	locked_out_user which is  not able to login 
+2023-04-04 00:29:33,430  INFO [main] newSauce:34 - opened home page 
+2023-04-04 00:29:33,562  INFO [main] newSauce:38 - setting  username 
+2023-04-04 00:29:33,969  INFO [main] newSauce:41 - setting  password 
+2023-04-04 00:29:34,194  INFO [main] newSauce:45 - clicking button  
+2023-04-04 00:29:34,287  INFO [main] newSauce:54 - clicking button  
+2023-04-04 00:29:43,108  INFO [main] newSauce:57 - clicking button  
+2023-04-04 00:29:43,811  INFO [main] newSauce:34 - opened home page 
+2023-04-04 00:29:43,986  INFO [main] newSauce:38 - setting  username 
+2023-04-04 00:29:44,084  INFO [main] newSauce:41 - setting  password 
+2023-04-04 00:29:49,221  INFO [main] newSauce:45 - clicking button  
+2023-04-04 00:29:49,283  INFO [main] newSauce:54 - clicking button  
+2023-04-04 00:29:53,247  INFO [main] newSauce:57 - clicking button  
+2023-04-04 00:33:35,341  INFO [main] newSauce:34 - opened home page 
+2023-04-04 00:33:35,594  INFO [main] newSauce:38 - setting  username 
+2023-04-04 00:33:35,719  INFO [main] newSauce:41 - setting  password 
+2023-04-04 00:33:35,865  INFO [main] newSauce:45 - clicking button  
+2023-04-04 00:33:37,040  INFO [main] newSauce:54 - clicking button  
+2023-04-04 00:33:42,990  INFO [main] newSauce:57 - clicking button  
+2023-04-04 00:33:46,237  INFO [main] newSauce:34 - opened home page 
+2023-04-04 00:33:46,399  INFO [main] newSauce:38 - setting  username 
+2023-04-04 00:33:46,499  INFO [main] newSauce:41 - setting  password 
+2023-04-04 00:33:46,587  INFO [main] newSauce:45 - clicking button  
+2023-04-04 00:33:47,603  INFO [main] newSauce:66 - this is 	locked_out_user which is  not able to login 
+2023-04-04 00:33:47,892  INFO [main] newSauce:34 - opened home page 
+2023-04-04 00:33:48,012  INFO [main] newSauce:38 - setting  username 
+2023-04-04 00:33:48,119  INFO [main] newSauce:41 - setting  password 
+2023-04-04 00:33:48,281  INFO [main] newSauce:45 - clicking button  
+2023-04-04 00:33:49,411  INFO [main] newSauce:54 - clicking button  
+2023-04-04 00:34:00,774  INFO [main] newSauce:57 - clicking button  
+2023-04-04 00:34:10,491  INFO [main] newSauce:34 - opened home page 
+2023-04-04 00:34:10,665  INFO [main] newSauce:38 - setting  username 
+2023-04-04 00:34:10,795  INFO [main] newSauce:41 - setting  password 
+2023-04-04 00:34:16,092  INFO [main] newSauce:45 - clicking button  
+2023-04-04 00:34:17,256  INFO [main] newSauce:54 - clicking button  
+2023-04-04 00:34:24,583  INFO [main] newSauce:57 - clicking button  
